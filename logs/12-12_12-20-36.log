@@ -1,0 +1,49 @@
+[2022-12-12 12:20:36] [INFO   ] cannot read configuration file config.properties trying from resources.
+[2022-12-12 12:20:36] [INFO   ] configuration file was loaded from resources directory.
+[2022-12-12 12:20:37] [INFO   ] Thread Thread-1starting.
+[2022-12-12 12:20:37] [INFO   ] Thread Thread-5starting.
+[2022-12-12 12:20:37] [INFO   ] Thread Thread-4starting.
+[2022-12-12 12:20:37] [INFO   ] Thread dealer starting.
+[2022-12-12 12:20:37] [INFO   ] Thread Thread-3starting.
+[2022-12-12 12:20:37] [INFO   ] Thread Thread-2starting.
+[2022-12-12 12:20:37] [INFO   ] Thread computer-5 starting.
+[2022-12-12 12:20:37] [INFO   ] Thread Thread-0starting.
+[2022-12-12 12:20:37] [INFO   ] Thread computer-2 starting.
+[2022-12-12 12:20:37] [INFO   ] Thread computer-3 starting.
+[2022-12-12 12:20:37] [INFO   ] Thread computer-4 starting.
+[2022-12-12 12:20:37] [SEVERE ] placing card 32 in slot 0
+[2022-12-12 12:20:37] [SEVERE ] placing card 21 in slot 1
+[2022-12-12 12:20:37] [SEVERE ] placing card 66 in slot 2
+[2022-12-12 12:20:37] [SEVERE ] placing card 27 in slot 3
+[2022-12-12 12:20:37] [SEVERE ] placing card 8 in slot 4
+[2022-12-12 12:20:37] [SEVERE ] placing card 52 in slot 5
+[2022-12-12 12:20:37] [SEVERE ] placing card 3 in slot 6
+[2022-12-12 12:20:37] [SEVERE ] placing card 25 in slot 7
+[2022-12-12 12:20:38] [SEVERE ] placing card 77 in slot 8
+[2022-12-12 12:20:38] [SEVERE ] placing card 70 in slot 9
+[2022-12-12 12:20:38] [SEVERE ] placing card 33 in slot 10
+[2022-12-12 12:20:38] [SEVERE ] placing card 16 in slot 11
+[2022-12-12 12:20:39] [SEVERE ] player 3 placing token on slot 9
+[2022-12-12 12:20:40] [SEVERE ] player 2 placing token on slot 0
+[2022-12-12 12:20:40] [SEVERE ] player 4 placing token on slot 3
+[2022-12-12 12:20:40] [SEVERE ] player 3 placing token on slot 11
+[2022-12-12 12:20:41] [SEVERE ] player 5 placing token on slot 0
+[2022-12-12 12:20:42] [SEVERE ] player 4 placing token on slot 6
+[2022-12-12 12:20:42] [SEVERE ] player 5 placing token on slot 5
+[2022-12-12 12:20:42] [SEVERE ] player 2 placing token on slot 6
+[2022-12-12 12:20:42] [SEVERE ] player 3 placing token on slot 7
+[2022-12-12 12:20:42] [SEVERE ] removing player 3 token from slot 7
+[2022-12-12 12:20:42] [SEVERE ] removing player 3 token from slot 9
+[2022-12-12 12:20:42] [SEVERE ] removing player 3 token from slot 11
+[2022-12-12 12:20:43] [SEVERE ] player 2 placing token on slot 2
+[2022-12-12 12:20:43] [SEVERE ] removing player 2 token from slot 0
+[2022-12-12 12:20:43] [SEVERE ] removing player 2 token from slot 2
+[2022-12-12 12:20:43] [SEVERE ] removing player 2 token from slot 6
+[2022-12-12 12:20:43] [SEVERE ] player 4 placing token on slot 7
+[2022-12-12 12:20:43] [SEVERE ] removing player 4 token from slot 3
+[2022-12-12 12:20:43] [SEVERE ] removing player 4 token from slot 6
+[2022-12-12 12:20:43] [SEVERE ] removing player 4 token from slot 7
+[2022-12-12 12:20:44] [SEVERE ] player 5 placing token on slot 11
+[2022-12-12 12:20:44] [SEVERE ] removing player 5 token from slot 0
+[2022-12-12 12:20:44] [SEVERE ] removing player 5 token from slot 5
+[2022-12-12 12:20:44] [SEVERE ] removing player 5 token from slot 11

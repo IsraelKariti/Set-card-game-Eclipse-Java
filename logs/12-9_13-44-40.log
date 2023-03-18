@@ -1,0 +1,26 @@
+[2022-12-09 13:44:40] [INFO   ] cannot read configuration file config.properties trying from resources.
+[2022-12-09 13:44:40] [INFO   ] configuration file was loaded from resources directory.
+[2022-12-09 13:44:40] [INFO   ] Thread dealer starting.
+[2022-12-09 13:44:40] [INFO   ] Thread Thread-0starting.
+[2022-12-09 13:44:40] [INFO   ] Thread Thread-1starting.
+[2022-12-09 13:44:41] [SEVERE ] placing card 3 in slot 0
+[2022-12-09 13:44:41] [SEVERE ] placing card 62 in slot 1
+[2022-12-09 13:44:41] [SEVERE ] placing card 1 in slot 2
+[2022-12-09 13:44:41] [SEVERE ] placing card 44 in slot 3
+[2022-12-09 13:44:41] [SEVERE ] placing card 25 in slot 4
+[2022-12-09 13:44:41] [SEVERE ] placing card 7 in slot 5
+[2022-12-09 13:44:41] [SEVERE ] placing card 18 in slot 6
+[2022-12-09 13:44:42] [SEVERE ] placing card 58 in slot 7
+[2022-12-09 13:44:42] [SEVERE ] placing card 12 in slot 8
+[2022-12-09 13:44:42] [SEVERE ] placing card 60 in slot 9
+[2022-12-09 13:44:42] [SEVERE ] placing card 51 in slot 10
+[2022-12-09 13:44:42] [SEVERE ] placing card 4 in slot 11
+[2022-12-09 13:44:51] [SEVERE ] Key 81 was pressed by player 0
+[2022-12-09 13:44:51] [SEVERE ] player 0 placing token on slot 0
+[2022-12-09 13:44:52] [SEVERE ] Key 87 was pressed by player 0
+[2022-12-09 13:44:52] [SEVERE ] player 0 placing token on slot 1
+[2022-12-09 13:44:53] [SEVERE ] Key 69 was pressed by player 0
+[2022-12-09 13:44:53] [SEVERE ] player 0 placing token on slot 2
+[2022-12-09 13:44:53] [SEVERE ] removing player 0 token from slot 0
+[2022-12-09 13:44:53] [SEVERE ] removing player 0 token from slot 1
+[2022-12-09 13:44:53] [SEVERE ] removing player 0 token from slot 2

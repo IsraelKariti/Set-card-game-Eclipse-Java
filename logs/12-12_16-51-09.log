@@ -1,0 +1,56 @@
+[2022-12-12 16:51:09] [INFO   ] cannot read configuration file config.properties trying from resources.
+[2022-12-12 16:51:09] [INFO   ] configuration file was loaded from resources directory.
+[2022-12-12 16:51:10] [INFO   ] Thread dealer starting.
+[2022-12-12 16:51:10] [INFO   ] Thread Thread-1starting.
+[2022-12-12 16:51:10] [INFO   ] Thread Thread-0starting.
+[2022-12-12 16:51:10] [SEVERE ] placing card 7 in slot 0
+[2022-12-12 16:51:10] [SEVERE ] placing card 33 in slot 1
+[2022-12-12 16:51:10] [SEVERE ] placing card 60 in slot 2
+[2022-12-12 16:51:10] [SEVERE ] placing card 17 in slot 3
+[2022-12-12 16:51:10] [SEVERE ] placing card 9 in slot 4
+[2022-12-12 16:51:10] [SEVERE ] placing card 18 in slot 5
+[2022-12-12 16:51:10] [SEVERE ] placing card 71 in slot 6
+[2022-12-12 16:51:10] [SEVERE ] placing card 22 in slot 7
+[2022-12-12 16:51:11] [SEVERE ] placing card 43 in slot 8
+[2022-12-12 16:51:11] [SEVERE ] placing card 78 in slot 9
+[2022-12-12 16:51:11] [SEVERE ] placing card 6 in slot 10
+[2022-12-12 16:51:11] [SEVERE ] placing card 13 in slot 11
+[2022-12-12 16:51:12] [SEVERE ] Key 81 was pressed by player 0
+[2022-12-12 16:51:12] [SEVERE ] player 0 placing token on slot 0
+[2022-12-12 16:51:12] [SEVERE ] Key 87 was pressed by player 0
+[2022-12-12 16:51:12] [SEVERE ] player 0 placing token on slot 1
+[2022-12-12 16:51:12] [SEVERE ] Key 69 was pressed by player 0
+[2022-12-12 16:51:12] [SEVERE ] player 0 placing token on slot 2
+[2022-12-12 16:51:12] [SEVERE ] Key 81 was pressed by player 0
+[2022-12-12 16:51:12] [SEVERE ] Key 87 was pressed by player 0
+[2022-12-12 16:51:15] [SEVERE ] removing player 0 token from slot 1
+[2022-12-12 16:51:15] [SEVERE ] Key 69 was pressed by player 0
+[2022-12-12 16:51:15] [SEVERE ] removing player 0 token from slot 2
+[2022-12-12 16:51:15] [SEVERE ] Key 81 was pressed by player 0
+[2022-12-12 16:51:15] [SEVERE ] removing player 0 token from slot 0
+[2022-12-12 16:51:15] [SEVERE ] Key 87 was pressed by player 0
+[2022-12-12 16:51:15] [SEVERE ] player 0 placing token on slot 1
+[2022-12-12 16:51:15] [SEVERE ] Key 69 was pressed by player 0
+[2022-12-12 16:51:15] [SEVERE ] player 0 placing token on slot 2
+[2022-12-12 16:51:15] [SEVERE ] Key 81 was pressed by player 0
+[2022-12-12 16:51:15] [SEVERE ] player 0 placing token on slot 0
+[2022-12-12 16:51:15] [SEVERE ] Key 87 was pressed by player 0
+[2022-12-12 16:51:15] [SEVERE ] Key 69 was pressed by player 0
+[2022-12-12 16:51:18] [SEVERE ] removing player 0 token from slot 2
+[2022-12-12 16:51:18] [SEVERE ] Key 81 was pressed by player 0
+[2022-12-12 16:51:18] [SEVERE ] removing player 0 token from slot 0
+[2022-12-12 16:51:18] [SEVERE ] Key 87 was pressed by player 0
+[2022-12-12 16:51:18] [SEVERE ] removing player 0 token from slot 1
+[2022-12-12 16:51:18] [SEVERE ] Key 69 was pressed by player 0
+[2022-12-12 16:51:18] [SEVERE ] player 0 placing token on slot 2
+[2022-12-12 16:51:18] [SEVERE ] Key 81 was pressed by player 0
+[2022-12-12 16:51:18] [SEVERE ] player 0 placing token on slot 0
+[2022-12-12 16:51:18] [SEVERE ] Key 87 was pressed by player 0
+[2022-12-12 16:51:18] [SEVERE ] player 0 placing token on slot 1
+[2022-12-12 16:51:18] [SEVERE ] Key 69 was pressed by player 0
+[2022-12-12 16:51:18] [SEVERE ] Key 81 was pressed by player 0
+[2022-12-12 16:51:21] [SEVERE ] removing player 0 token from slot 0
+[2022-12-12 16:51:21] [SEVERE ] Key 87 was pressed by player 0
+[2022-12-12 16:51:21] [SEVERE ] removing player 0 token from slot 1
+[2022-12-12 16:51:21] [SEVERE ] Key 69 was pressed by player 0
+[2022-12-12 16:51:21] [SEVERE ] removing player 0 token from slot 2

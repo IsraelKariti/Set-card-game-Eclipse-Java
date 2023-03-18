@@ -1,0 +1,1805 @@
+[2022-12-10 15:16:52] [INFO   ] cannot read configuration file config.properties trying from resources.
+[2022-12-10 15:16:52] [INFO   ] configuration file was loaded from resources directory.
+[2022-12-10 15:16:52] [INFO   ] Thread Thread-0starting.
+[2022-12-10 15:16:52] [INFO   ] Thread Thread-5starting.
+[2022-12-10 15:16:52] [INFO   ] Thread dealer starting.
+[2022-12-10 15:16:52] [INFO   ] Thread Thread-4starting.
+[2022-12-10 15:16:52] [INFO   ] Thread Thread-3starting.
+[2022-12-10 15:16:52] [INFO   ] Thread Thread-2starting.
+[2022-12-10 15:16:52] [INFO   ] Thread Thread-1starting.
+[2022-12-10 15:16:52] [INFO   ] Thread computer-4 starting.
+[2022-12-10 15:16:52] [INFO   ] Thread computer-5 starting.
+[2022-12-10 15:16:52] [INFO   ] Thread computer-3 starting.
+[2022-12-10 15:16:52] [INFO   ] Thread computer-2 starting.
+[2022-12-10 15:16:52] [SEVERE ] placing card 24 in slot 0
+[2022-12-10 15:16:52] [SEVERE ] placing card 16 in slot 1
+[2022-12-10 15:16:53] [SEVERE ] placing card 17 in slot 2
+[2022-12-10 15:16:53] [SEVERE ] placing card 49 in slot 3
+[2022-12-10 15:16:53] [SEVERE ] placing card 39 in slot 4
+[2022-12-10 15:16:53] [SEVERE ] placing card 3 in slot 5
+[2022-12-10 15:16:53] [SEVERE ] placing card 2 in slot 6
+[2022-12-10 15:16:53] [SEVERE ] placing card 4 in slot 7
+[2022-12-10 15:16:53] [SEVERE ] placing card 9 in slot 8
+[2022-12-10 15:16:53] [SEVERE ] placing card 6 in slot 9
+[2022-12-10 15:16:54] [SEVERE ] placing card 11 in slot 10
+[2022-12-10 15:16:54] [SEVERE ] placing card 61 in slot 11
+[2022-12-10 15:16:55] [SEVERE ] player 2 placing token on slot 10
+[2022-12-10 15:16:56] [SEVERE ] player 3 placing token on slot 1
+[2022-12-10 15:16:56] [SEVERE ] player 5 placing token on slot 5
+[2022-12-10 15:16:56] [SEVERE ] player 4 placing token on slot 0
+[2022-12-10 15:16:56] [SEVERE ] player 2 placing token on slot 11
+[2022-12-10 15:16:57] [SEVERE ] player 4 placing token on slot 8
+[2022-12-10 15:16:57] [SEVERE ] player 2 placing token on slot 5
+[2022-12-10 15:16:57] [SEVERE ] removing player 2 token from slot 5
+[2022-12-10 15:16:57] [SEVERE ] removing player 2 token from slot 10
+[2022-12-10 15:16:57] [SEVERE ] removing player 2 token from slot 11
+[2022-12-10 15:16:57] [SEVERE ] player 5 placing token on slot 1
+[2022-12-10 15:16:59] [SEVERE ] player 3 placing token on slot 5
+[2022-12-10 15:16:59] [SEVERE ] player 2 placing token on slot 1
+[2022-12-10 15:16:59] [SEVERE ] player 4 placing token on slot 4
+[2022-12-10 15:16:59] [SEVERE ] removing player 4 token from slot 0
+[2022-12-10 15:16:59] [SEVERE ] removing player 4 token from slot 4
+[2022-12-10 15:16:59] [SEVERE ] removing player 4 token from slot 8
+[2022-12-10 15:16:59] [SEVERE ] player 5 placing token on slot 11
+[2022-12-10 15:16:59] [SEVERE ] removing player 5 token from slot 1
+[2022-12-10 15:16:59] [SEVERE ] removing player 5 token from slot 5
+[2022-12-10 15:16:59] [SEVERE ] removing player 5 token from slot 11
+[2022-12-10 15:17:00] [SEVERE ] player 3 placing token on slot 8
+[2022-12-10 15:17:00] [SEVERE ] removing player 3 token from slot 1
+[2022-12-10 15:17:00] [SEVERE ] removing player 3 token from slot 5
+[2022-12-10 15:17:00] [SEVERE ] removing player 3 token from slot 8
+[2022-12-10 15:17:00] [SEVERE ] player 2 placing token on slot 4
+[2022-12-10 15:17:01] [SEVERE ] player 5 placing token on slot 7
+[2022-12-10 15:17:01] [SEVERE ] player 4 placing token on slot 7
+[2022-12-10 15:17:01] [SEVERE ] player 2 placing token on slot 2
+[2022-12-10 15:17:01] [SEVERE ] removing player 2 token from slot 1
+[2022-12-10 15:17:01] [SEVERE ] removing player 2 token from slot 2
+[2022-12-10 15:17:01] [SEVERE ] removing player 2 token from slot 4
+[2022-12-10 15:17:02] [SEVERE ] player 5 placing token on slot 8
+[2022-12-10 15:17:02] [SEVERE ] player 2 placing token on slot 10
+[2022-12-10 15:17:02] [SEVERE ] player 4 placing token on slot 6
+[2022-12-10 15:17:03] [SEVERE ] player 3 placing token on slot 11
+[2022-12-10 15:17:03] [SEVERE ] player 2 placing token on slot 8
+[2022-12-10 15:17:04] [SEVERE ] player 5 placing token on slot 6
+[2022-12-10 15:17:04] [SEVERE ] removing player 5 token from slot 6
+[2022-12-10 15:17:04] [SEVERE ] removing player 5 token from slot 7
+[2022-12-10 15:17:04] [SEVERE ] removing player 5 token from slot 8
+[2022-12-10 15:17:04] [SEVERE ] player 3 placing token on slot 8
+[2022-12-10 15:17:05] [SEVERE ] player 4 placing token on slot 2
+[2022-12-10 15:17:05] [SEVERE ] removing player 4 token from slot 2
+[2022-12-10 15:17:05] [SEVERE ] removing player 4 token from slot 6
+[2022-12-10 15:17:05] [SEVERE ] removing player 4 token from slot 7
+[2022-12-10 15:17:05] [SEVERE ] player 4 placing token on slot 0
+[2022-12-10 15:17:05] [SEVERE ] player 3 placing token on slot 9
+[2022-12-10 15:17:05] [SEVERE ] removing player 3 token from slot 8
+[2022-12-10 15:17:05] [SEVERE ] removing player 3 token from slot 9
+[2022-12-10 15:17:05] [SEVERE ] removing player 3 token from slot 11
+[2022-12-10 15:17:06] [SEVERE ] player 5 placing token on slot 11
+[2022-12-10 15:17:06] [SEVERE ] player 2 placing token on slot 0
+[2022-12-10 15:17:06] [SEVERE ] removing player 2 token from slot 0
+[2022-12-10 15:17:06] [SEVERE ] removing player 2 token from slot 8
+[2022-12-10 15:17:06] [SEVERE ] removing player 2 token from slot 10
+[2022-12-10 15:17:06] [SEVERE ] player 3 placing token on slot 11
+[2022-12-10 15:17:08] [SEVERE ] player 5 placing token on slot 8
+[2022-12-10 15:17:08] [SEVERE ] player 4 placing token on slot 6
+[2022-12-10 15:17:08] [SEVERE ] player 2 placing token on slot 6
+[2022-12-10 15:17:09] [SEVERE ] player 5 placing token on slot 6
+[2022-12-10 15:17:09] [SEVERE ] removing player 5 token from slot 6
+[2022-12-10 15:17:09] [SEVERE ] removing player 5 token from slot 8
+[2022-12-10 15:17:09] [SEVERE ] removing player 5 token from slot 11
+[2022-12-10 15:17:09] [SEVERE ] player 4 placing token on slot 8
+[2022-12-10 15:17:09] [SEVERE ] removing player 4 token from slot 0
+[2022-12-10 15:17:09] [SEVERE ] removing player 4 token from slot 6
+[2022-12-10 15:17:09] [SEVERE ] removing player 4 token from slot 8
+[2022-12-10 15:17:09] [SEVERE ] player 4 placing token on slot 4
+[2022-12-10 15:17:09] [SEVERE ] player 3 placing token on slot 7
+[2022-12-10 15:17:10] [SEVERE ] player 5 placing token on slot 1
+[2022-12-10 15:17:11] [SEVERE ] player 2 placing token on slot 3
+[2022-12-10 15:17:11] [SEVERE ] player 4 placing token on slot 2
+[2022-12-10 15:17:12] [SEVERE ] player 5 placing token on slot 4
+[2022-12-10 15:17:12] [SEVERE ] player 3 placing token on slot 5
+[2022-12-10 15:17:12] [SEVERE ] removing player 3 token from slot 5
+[2022-12-10 15:17:12] [SEVERE ] removing player 3 token from slot 7
+[2022-12-10 15:17:12] [SEVERE ] removing player 3 token from slot 11
+[2022-12-10 15:17:12] [SEVERE ] player 4 placing token on slot 11
+[2022-12-10 15:17:12] [SEVERE ] removing player 4 token from slot 2
+[2022-12-10 15:17:12] [SEVERE ] removing player 4 token from slot 4
+[2022-12-10 15:17:12] [SEVERE ] removing player 4 token from slot 11
+[2022-12-10 15:17:13] [SEVERE ] player 2 placing token on slot 1
+[2022-12-10 15:17:13] [SEVERE ] removing player 2 token from slot 1
+[2022-12-10 15:17:13] [SEVERE ] removing player 2 token from slot 3
+[2022-12-10 15:17:13] [SEVERE ] removing player 2 token from slot 6
+[2022-12-10 15:17:13] [SEVERE ] player 5 placing token on slot 8
+[2022-12-10 15:17:13] [SEVERE ] removing player 5 token from slot 1
+[2022-12-10 15:17:13] [SEVERE ] removing player 5 token from slot 4
+[2022-12-10 15:17:13] [SEVERE ] removing player 5 token from slot 8
+[2022-12-10 15:17:14] [SEVERE ] player 4 placing token on slot 2
+[2022-12-10 15:17:14] [SEVERE ] player 3 placing token on slot 6
+[2022-12-10 15:17:15] [SEVERE ] player 4 placing token on slot 5
+[2022-12-10 15:17:16] [SEVERE ] player 3 placing token on slot 10
+[2022-12-10 15:17:16] [SEVERE ] player 5 placing token on slot 10
+[2022-12-10 15:17:16] [SEVERE ] player 2 placing token on slot 8
+[2022-12-10 15:17:17] [SEVERE ] player 3 placing token on slot 11
+[2022-12-10 15:17:17] [SEVERE ] removing player 3 token from slot 6
+[2022-12-10 15:17:17] [SEVERE ] removing player 3 token from slot 10
+[2022-12-10 15:17:17] [SEVERE ] removing player 3 token from slot 11
+[2022-12-10 15:17:17] [SEVERE ] player 2 placing token on slot 1
+[2022-12-10 15:17:17] [SEVERE ] player 3 placing token on slot 5
+[2022-12-10 15:17:17] [SEVERE ] player 4 placing token on slot 8
+[2022-12-10 15:17:17] [SEVERE ] removing player 4 token from slot 2
+[2022-12-10 15:17:17] [SEVERE ] removing player 4 token from slot 5
+[2022-12-10 15:17:17] [SEVERE ] removing player 4 token from slot 8
+[2022-12-10 15:17:18] [SEVERE ] player 4 placing token on slot 5
+[2022-12-10 15:17:19] [SEVERE ] player 5 placing token on slot 0
+[2022-12-10 15:17:19] [SEVERE ] player 2 placing token on slot 7
+[2022-12-10 15:17:19] [SEVERE ] removing player 2 token from slot 1
+[2022-12-10 15:17:19] [SEVERE ] removing player 2 token from slot 7
+[2022-12-10 15:17:19] [SEVERE ] removing player 2 token from slot 8
+[2022-12-10 15:17:20] [SEVERE ] player 3 placing token on slot 11
+[2022-12-10 15:17:20] [SEVERE ] player 2 placing token on slot 2
+[2022-12-10 15:17:20] [SEVERE ] player 4 placing token on slot 0
+[2022-12-10 15:17:21] [SEVERE ] player 5 placing token on slot 2
+[2022-12-10 15:17:21] [SEVERE ] removing player 5 token from slot 0
+[2022-12-10 15:17:21] [SEVERE ] removing player 5 token from slot 2
+[2022-12-10 15:17:21] [SEVERE ] removing player 5 token from slot 10
+[2022-12-10 15:17:22] [SEVERE ] player 5 placing token on slot 7
+[2022-12-10 15:17:22] [SEVERE ] player 2 placing token on slot 6
+[2022-12-10 15:17:22] [SEVERE ] player 3 placing token on slot 6
+[2022-12-10 15:17:22] [SEVERE ] removing player 3 token from slot 5
+[2022-12-10 15:17:22] [SEVERE ] removing player 3 token from slot 6
+[2022-12-10 15:17:22] [SEVERE ] removing player 3 token from slot 11
+[2022-12-10 15:17:23] [SEVERE ] player 4 placing token on slot 3
+[2022-12-10 15:17:23] [SEVERE ] removing player 4 token from slot 0
+[2022-12-10 15:17:23] [SEVERE ] removing player 4 token from slot 3
+[2022-12-10 15:17:23] [SEVERE ] removing player 4 token from slot 5
+[2022-12-10 15:17:24] [SEVERE ] player 5 placing token on slot 1
+[2022-12-10 15:17:24] [SEVERE ] player 4 placing token on slot 7
+[2022-12-10 15:17:24] [SEVERE ] player 2 placing token on slot 9
+[2022-12-10 15:17:24] [SEVERE ] removing player 2 token from slot 2
+[2022-12-10 15:17:24] [SEVERE ] removing player 2 token from slot 6
+[2022-12-10 15:17:24] [SEVERE ] removing player 2 token from slot 9
+[2022-12-10 15:17:24] [SEVERE ] player 3 placing token on slot 9
+[2022-12-10 15:17:25] [SEVERE ] player 5 placing token on slot 8
+[2022-12-10 15:17:25] [SEVERE ] removing player 5 token from slot 1
+[2022-12-10 15:17:25] [SEVERE ] removing player 5 token from slot 7
+[2022-12-10 15:17:25] [SEVERE ] removing player 5 token from slot 8
+[2022-12-10 15:17:26] [SEVERE ] player 4 placing token on slot 0
+[2022-12-10 15:17:26] [SEVERE ] player 3 placing token on slot 5
+[2022-12-10 15:17:26] [SEVERE ] player 2 placing token on slot 0
+[2022-12-10 15:17:27] [SEVERE ] player 4 placing token on slot 4
+[2022-12-10 15:17:27] [SEVERE ] removing player 4 token from slot 0
+[2022-12-10 15:17:27] [SEVERE ] removing player 4 token from slot 4
+[2022-12-10 15:17:27] [SEVERE ] removing player 4 token from slot 7
+[2022-12-10 15:17:27] [SEVERE ] player 2 placing token on slot 4
+[2022-12-10 15:17:28] [SEVERE ] player 3 placing token on slot 0
+[2022-12-10 15:17:28] [SEVERE ] removing player 3 token from slot 0
+[2022-12-10 15:17:28] [SEVERE ] removing player 3 token from slot 5
+[2022-12-10 15:17:28] [SEVERE ] removing player 3 token from slot 9
+[2022-12-10 15:17:28] [SEVERE ] player 5 placing token on slot 1
+[2022-12-10 15:17:28] [SEVERE ] player 4 placing token on slot 3
+[2022-12-10 15:17:29] [SEVERE ] player 2 placing token on slot 8
+[2022-12-10 15:17:29] [SEVERE ] removing player 2 token from slot 0
+[2022-12-10 15:17:29] [SEVERE ] removing player 2 token from slot 4
+[2022-12-10 15:17:29] [SEVERE ] removing player 2 token from slot 8
+[2022-12-10 15:17:29] [SEVERE ] player 3 placing token on slot 2
+[2022-12-10 15:17:29] [SEVERE ] player 2 placing token on slot 2
+[2022-12-10 15:17:30] [SEVERE ] player 5 placing token on slot 3
+[2022-12-10 15:17:30] [SEVERE ] player 2 placing token on slot 5
+[2022-12-10 15:17:30] [SEVERE ] player 4 placing token on slot 0
+[2022-12-10 15:17:31] [SEVERE ] player 5 placing token on slot 9
+[2022-12-10 15:17:31] [SEVERE ] removing player 5 token from slot 1
+[2022-12-10 15:17:31] [SEVERE ] removing player 5 token from slot 3
+[2022-12-10 15:17:31] [SEVERE ] removing player 5 token from slot 9
+[2022-12-10 15:17:32] [SEVERE ] player 3 placing token on slot 5
+[2022-12-10 15:17:32] [SEVERE ] player 2 placing token on slot 8
+[2022-12-10 15:17:32] [SEVERE ] removing player 2 token from slot 2
+[2022-12-10 15:17:32] [SEVERE ] removing player 2 token from slot 5
+[2022-12-10 15:17:32] [SEVERE ] removing player 2 token from slot 8
+[2022-12-10 15:17:32] [SEVERE ] player 4 placing token on slot 11
+[2022-12-10 15:17:32] [SEVERE ] removing player 4 token from slot 0
+[2022-12-10 15:17:32] [SEVERE ] removing player 4 token from slot 3
+[2022-12-10 15:17:32] [SEVERE ] removing player 4 token from slot 11
+[2022-12-10 15:17:33] [SEVERE ] player 3 placing token on slot 3
+[2022-12-10 15:17:33] [SEVERE ] removing player 3 token from slot 2
+[2022-12-10 15:17:33] [SEVERE ] removing player 3 token from slot 3
+[2022-12-10 15:17:33] [SEVERE ] removing player 3 token from slot 5
+[2022-12-10 15:17:33] [SEVERE ] player 4 placing token on slot 2
+[2022-12-10 15:17:34] [SEVERE ] player 4 placing token on slot 10
+[2022-12-10 15:17:34] [SEVERE ] player 5 placing token on slot 9
+[2022-12-10 15:17:34] [SEVERE ] player 2 placing token on slot 3
+[2022-12-10 15:17:35] [SEVERE ] player 4 placing token on slot 5
+[2022-12-10 15:17:35] [SEVERE ] removing player 4 token from slot 2
+[2022-12-10 15:17:35] [SEVERE ] removing player 4 token from slot 5
+[2022-12-10 15:17:35] [SEVERE ] removing player 4 token from slot 10
+[2022-12-10 15:17:35] [SEVERE ] player 5 placing token on slot 1
+[2022-12-10 15:17:36] [SEVERE ] player 3 placing token on slot 1
+[2022-12-10 15:17:36] [SEVERE ] player 2 placing token on slot 1
+[2022-12-10 15:17:37] [SEVERE ] player 3 placing token on slot 4
+[2022-12-10 15:17:37] [SEVERE ] player 5 placing token on slot 10
+[2022-12-10 15:17:37] [SEVERE ] removing player 5 token from slot 1
+[2022-12-10 15:17:37] [SEVERE ] removing player 5 token from slot 9
+[2022-12-10 15:17:37] [SEVERE ] removing player 5 token from slot 10
+[2022-12-10 15:17:38] [SEVERE ] player 4 placing token on slot 0
+[2022-12-10 15:17:38] [SEVERE ] player 3 placing token on slot 5
+[2022-12-10 15:17:38] [SEVERE ] removing player 3 token from slot 1
+[2022-12-10 15:17:38] [SEVERE ] removing player 3 token from slot 4
+[2022-12-10 15:17:38] [SEVERE ] removing player 3 token from slot 5
+[2022-12-10 15:17:38] [SEVERE ] player 5 placing token on slot 1
+[2022-12-10 15:17:38] [SEVERE ] player 2 placing token on slot 7
+[2022-12-10 15:17:38] [SEVERE ] removing player 2 token from slot 1
+[2022-12-10 15:17:38] [SEVERE ] removing player 2 token from slot 3
+[2022-12-10 15:17:38] [SEVERE ] removing player 2 token from slot 7
+[2022-12-10 15:17:39] [SEVERE ] player 3 placing token on slot 4
+[2022-12-10 15:17:40] [SEVERE ] player 4 placing token on slot 5
+[2022-12-10 15:17:40] [SEVERE ] player 3 placing token on slot 1
+[2022-12-10 15:17:40] [SEVERE ] player 2 placing token on slot 1
+[2022-12-10 15:17:41] [SEVERE ] player 5 placing token on slot 6
+[2022-12-10 15:17:41] [SEVERE ] player 4 placing token on slot 4
+[2022-12-10 15:17:41] [SEVERE ] removing player 4 token from slot 0
+[2022-12-10 15:17:41] [SEVERE ] removing player 4 token from slot 4
+[2022-12-10 15:17:41] [SEVERE ] removing player 4 token from slot 5
+[2022-12-10 15:17:42] [SEVERE ] player 2 placing token on slot 0
+[2022-12-10 15:17:43] [SEVERE ] player 3 placing token on slot 5
+[2022-12-10 15:17:43] [SEVERE ] removing player 3 token from slot 1
+[2022-12-10 15:17:43] [SEVERE ] removing player 3 token from slot 4
+[2022-12-10 15:17:43] [SEVERE ] removing player 3 token from slot 5
+[2022-12-10 15:17:43] [SEVERE ] player 4 placing token on slot 4
+[2022-12-10 15:17:43] [SEVERE ] player 5 placing token on slot 5
+[2022-12-10 15:17:43] [SEVERE ] removing player 5 token from slot 1
+[2022-12-10 15:17:43] [SEVERE ] removing player 5 token from slot 5
+[2022-12-10 15:17:43] [SEVERE ] removing player 5 token from slot 6
+[2022-12-10 15:17:43] [SEVERE ] player 2 placing token on slot 4
+[2022-12-10 15:17:43] [SEVERE ] removing player 2 token from slot 0
+[2022-12-10 15:17:43] [SEVERE ] removing player 2 token from slot 1
+[2022-12-10 15:17:43] [SEVERE ] removing player 2 token from slot 4
+[2022-12-10 15:17:44] [SEVERE ] player 5 placing token on slot 4
+[2022-12-10 15:17:45] [SEVERE ] player 4 placing token on slot 6
+[2022-12-10 15:17:45] [SEVERE ] player 3 placing token on slot 10
+[2022-12-10 15:17:45] [SEVERE ] player 5 placing token on slot 1
+[2022-12-10 15:17:45] [SEVERE ] player 2 placing token on slot 0
+[2022-12-10 15:17:45] [SEVERE ] player 4 placing token on slot 3
+[2022-12-10 15:17:45] [SEVERE ] removing player 4 token from slot 3
+[2022-12-10 15:17:45] [SEVERE ] removing player 4 token from slot 4
+[2022-12-10 15:17:45] [SEVERE ] removing player 4 token from slot 6
+[2022-12-10 15:17:46] [SEVERE ] player 5 placing token on slot 11
+[2022-12-10 15:17:46] [SEVERE ] removing player 5 token from slot 1
+[2022-12-10 15:17:46] [SEVERE ] removing player 5 token from slot 4
+[2022-12-10 15:17:46] [SEVERE ] removing player 5 token from slot 11
+[2022-12-10 15:17:47] [SEVERE ] player 4 placing token on slot 8
+[2022-12-10 15:17:47] [SEVERE ] player 3 placing token on slot 3
+[2022-12-10 15:17:47] [SEVERE ] player 5 placing token on slot 0
+[2022-12-10 15:17:47] [SEVERE ] player 2 placing token on slot 6
+[2022-12-10 15:17:47] [SEVERE ] player 4 placing token on slot 9
+[2022-12-10 15:17:48] [SEVERE ] player 5 placing token on slot 8
+[2022-12-10 15:17:48] [SEVERE ] player 2 placing token on slot 4
+[2022-12-10 15:17:48] [SEVERE ] removing player 2 token from slot 0
+[2022-12-10 15:17:48] [SEVERE ] removing player 2 token from slot 4
+[2022-12-10 15:17:48] [SEVERE ] removing player 2 token from slot 6
+[2022-12-10 15:17:48] [SEVERE ] player 4 placing token on slot 0
+[2022-12-10 15:17:48] [SEVERE ] removing player 4 token from slot 0
+[2022-12-10 15:17:48] [SEVERE ] removing player 4 token from slot 8
+[2022-12-10 15:17:48] [SEVERE ] removing player 4 token from slot 9
+[2022-12-10 15:17:50] [SEVERE ] player 2 placing token on slot 1
+[2022-12-10 15:17:50] [SEVERE ] player 3 placing token on slot 6
+[2022-12-10 15:17:50] [SEVERE ] removing player 3 token from slot 3
+[2022-12-10 15:17:50] [SEVERE ] removing player 3 token from slot 6
+[2022-12-10 15:17:50] [SEVERE ] removing player 3 token from slot 10
+[2022-12-10 15:17:50] [SEVERE ] player 5 placing token on slot 7
+[2022-12-10 15:17:50] [SEVERE ] removing player 5 token from slot 0
+[2022-12-10 15:17:50] [SEVERE ] removing player 5 token from slot 7
+[2022-12-10 15:17:50] [SEVERE ] removing player 5 token from slot 8
+[2022-12-10 15:17:51] [SEVERE ] player 4 placing token on slot 11
+[2022-12-10 15:17:51] [SEVERE ] player 3 placing token on slot 6
+[2022-12-10 15:17:51] [SEVERE ] player 2 placing token on slot 10
+[2022-12-10 15:17:52] [SEVERE ] player 4 placing token on slot 4
+[2022-12-10 15:17:53] [SEVERE ] player 5 placing token on slot 6
+[2022-12-10 15:17:53] [SEVERE ] player 3 placing token on slot 3
+[2022-12-10 15:17:53] [SEVERE ] player 2 placing token on slot 9
+[2022-12-10 15:17:53] [SEVERE ] removing player 2 token from slot 1
+[2022-12-10 15:17:53] [SEVERE ] removing player 2 token from slot 9
+[2022-12-10 15:17:53] [SEVERE ] removing player 2 token from slot 10
+[2022-12-10 15:17:53] [SEVERE ] player 4 placing token on slot 1
+[2022-12-10 15:17:53] [SEVERE ] removing player 4 token from slot 1
+[2022-12-10 15:17:53] [SEVERE ] removing player 4 token from slot 4
+[2022-12-10 15:17:53] [SEVERE ] removing player 4 token from slot 11
+[2022-12-10 15:17:54] [SEVERE ] player 5 placing token on slot 4
+[2022-12-10 15:17:54] [SEVERE ] removing tokens from slot 0
+[2022-12-10 15:17:54] [SEVERE ] removing card from slot 0
+[2022-12-10 15:17:54] [SEVERE ] removing tokens from slot 1
+[2022-12-10 15:17:54] [SEVERE ] removing card from slot 1
+[2022-12-10 15:17:54] [SEVERE ] player 3 placing token on slot 8
+[2022-12-10 15:17:54] [SEVERE ] removing tokens from slot 2
+[2022-12-10 15:17:54] [SEVERE ] removing card from slot 2
+[2022-12-10 15:17:54] [SEVERE ] removing tokens from slot 3
+[2022-12-10 15:17:54] [SEVERE ] removing card from slot 3
+[2022-12-10 15:17:54] [SEVERE ] removing tokens from slot 4
+[2022-12-10 15:17:54] [SEVERE ] removing card from slot 4
+[2022-12-10 15:17:54] [SEVERE ] removing tokens from slot 5
+[2022-12-10 15:17:54] [SEVERE ] removing card from slot 5
+[2022-12-10 15:17:54] [SEVERE ] removing tokens from slot 6
+[2022-12-10 15:17:54] [SEVERE ] removing card from slot 6
+[2022-12-10 15:17:55] [SEVERE ] removing tokens from slot 7
+[2022-12-10 15:17:55] [SEVERE ] removing card from slot 7
+[2022-12-10 15:17:55] [SEVERE ] removing tokens from slot 8
+[2022-12-10 15:17:55] [SEVERE ] removing card from slot 8
+[2022-12-10 15:17:55] [SEVERE ] removing tokens from slot 9
+[2022-12-10 15:17:55] [SEVERE ] removing card from slot 9
+[2022-12-10 15:17:55] [SEVERE ] player 4 placing token on slot 10
+[2022-12-10 15:17:55] [SEVERE ] removing tokens from slot 10
+[2022-12-10 15:17:55] [SEVERE ] removing card from slot 10
+[2022-12-10 15:17:55] [SEVERE ] removing tokens from slot 11
+[2022-12-10 15:17:55] [SEVERE ] removing card from slot 11
+[2022-12-10 15:17:55] [SEVERE ] placing card 60 in slot 0
+[2022-12-10 15:17:55] [SEVERE ] placing card 70 in slot 1
+[2022-12-10 15:17:55] [SEVERE ] placing card 62 in slot 2
+[2022-12-10 15:17:55] [SEVERE ] placing card 8 in slot 3
+[2022-12-10 15:17:55] [SEVERE ] player 5 placing token on slot 1
+[2022-12-10 15:17:55] [SEVERE ] placing card 16 in slot 4
+[2022-12-10 15:17:56] [SEVERE ] placing card 47 in slot 5
+[2022-12-10 15:17:56] [SEVERE ] placing card 78 in slot 6
+[2022-12-10 15:17:56] [SEVERE ] placing card 51 in slot 7
+[2022-12-10 15:17:56] [SEVERE ] placing card 24 in slot 8
+[2022-12-10 15:17:56] [SEVERE ] placing card 75 in slot 9
+[2022-12-10 15:17:56] [SEVERE ] placing card 35 in slot 10
+[2022-12-10 15:17:56] [SEVERE ] placing card 45 in slot 11
+[2022-12-10 15:17:58] [SEVERE ] player 3 placing token on slot 4
+[2022-12-10 15:17:58] [SEVERE ] player 4 placing token on slot 3
+[2022-12-10 15:17:58] [SEVERE ] player 2 placing token on slot 6
+[2022-12-10 15:17:59] [SEVERE ] player 4 placing token on slot 11
+[2022-12-10 15:17:59] [SEVERE ] player 5 placing token on slot 2
+[2022-12-10 15:18:00] [SEVERE ] player 2 placing token on slot 1
+[2022-12-10 15:18:00] [SEVERE ] player 4 placing token on slot 1
+[2022-12-10 15:18:00] [SEVERE ] removing player 4 token from slot 1
+[2022-12-10 15:18:00] [SEVERE ] removing player 4 token from slot 3
+[2022-12-10 15:18:00] [SEVERE ] removing player 4 token from slot 11
+[2022-12-10 15:18:00] [SEVERE ] player 3 placing token on slot 9
+[2022-12-10 15:18:01] [SEVERE ] player 2 placing token on slot 4
+[2022-12-10 15:18:01] [SEVERE ] removing player 2 token from slot 1
+[2022-12-10 15:18:01] [SEVERE ] removing player 2 token from slot 4
+[2022-12-10 15:18:01] [SEVERE ] removing player 2 token from slot 6
+[2022-12-10 15:18:01] [SEVERE ] player 3 placing token on slot 0
+[2022-12-10 15:18:01] [SEVERE ] removing player 3 token from slot 0
+[2022-12-10 15:18:01] [SEVERE ] removing player 3 token from slot 4
+[2022-12-10 15:18:01] [SEVERE ] removing player 3 token from slot 9
+[2022-12-10 15:18:02] [SEVERE ] player 4 placing token on slot 9
+[2022-12-10 15:18:02] [SEVERE ] player 5 placing token on slot 6
+[2022-12-10 15:18:02] [SEVERE ] setting player 5 score to 1
+[2022-12-10 15:18:02] [SEVERE ] removing tokens from slot 1
+[2022-12-10 15:18:02] [SEVERE ] removing card from slot 1
+[2022-12-10 15:18:02] [SEVERE ] removing tokens from slot 2
+[2022-12-10 15:18:02] [SEVERE ] removing card from slot 2
+[2022-12-10 15:18:02] [SEVERE ] removing tokens from slot 6
+[2022-12-10 15:18:02] [SEVERE ] removing card from slot 6
+[2022-12-10 15:18:02] [SEVERE ] placing card 56 in slot 1
+[2022-12-10 15:18:02] [SEVERE ] placing card 28 in slot 2
+[2022-12-10 15:18:02] [SEVERE ] placing card 1 in slot 6
+[2022-12-10 15:18:03] [SEVERE ] player 4 placing token on slot 8
+[2022-12-10 15:18:03] [SEVERE ] player 5 placing token on slot 7
+[2022-12-10 15:18:04] [SEVERE ] player 2 placing token on slot 5
+[2022-12-10 15:18:04] [SEVERE ] player 3 placing token on slot 0
+[2022-12-10 15:18:05] [SEVERE ] player 2 placing token on slot 3
+[2022-12-10 15:18:06] [SEVERE ] player 4 placing token on slot 10
+[2022-12-10 15:18:06] [SEVERE ] removing player 4 token from slot 8
+[2022-12-10 15:18:06] [SEVERE ] removing player 4 token from slot 9
+[2022-12-10 15:18:06] [SEVERE ] removing player 4 token from slot 10
+[2022-12-10 15:18:06] [SEVERE ] player 5 placing token on slot 9
+[2022-12-10 15:18:06] [SEVERE ] player 4 placing token on slot 7
+[2022-12-10 15:18:07] [SEVERE ] player 5 placing token on slot 0
+[2022-12-10 15:18:07] [SEVERE ] removing player 5 token from slot 0
+[2022-12-10 15:18:07] [SEVERE ] removing player 5 token from slot 7
+[2022-12-10 15:18:07] [SEVERE ] removing player 5 token from slot 9
+[2022-12-10 15:18:07] [SEVERE ] player 3 placing token on slot 8
+[2022-12-10 15:18:08] [SEVERE ] player 4 placing token on slot 0
+[2022-12-10 15:18:08] [SEVERE ] player 2 placing token on slot 9
+[2022-12-10 15:18:08] [SEVERE ] removing player 2 token from slot 3
+[2022-12-10 15:18:08] [SEVERE ] removing player 2 token from slot 5
+[2022-12-10 15:18:08] [SEVERE ] removing player 2 token from slot 9
+[2022-12-10 15:18:08] [SEVERE ] player 4 placing token on slot 8
+[2022-12-10 15:18:08] [SEVERE ] removing player 4 token from slot 0
+[2022-12-10 15:18:08] [SEVERE ] removing player 4 token from slot 7
+[2022-12-10 15:18:08] [SEVERE ] removing player 4 token from slot 8
+[2022-12-10 15:18:08] [SEVERE ] player 3 placing token on slot 5
+[2022-12-10 15:18:08] [SEVERE ] removing player 3 token from slot 0
+[2022-12-10 15:18:08] [SEVERE ] removing player 3 token from slot 5
+[2022-12-10 15:18:08] [SEVERE ] removing player 3 token from slot 8
+[2022-12-10 15:18:09] [SEVERE ] player 5 placing token on slot 1
+[2022-12-10 15:18:09] [SEVERE ] player 4 placing token on slot 2
+[2022-12-10 15:18:09] [SEVERE ] player 2 placing token on slot 4
+[2022-12-10 15:18:10] [SEVERE ] player 2 placing token on slot 11
+[2022-12-10 15:18:10] [SEVERE ] player 5 placing token on slot 11
+[2022-12-10 15:18:11] [SEVERE ] player 3 placing token on slot 0
+[2022-12-10 15:18:11] [SEVERE ] player 4 placing token on slot 7
+[2022-12-10 15:18:12] [SEVERE ] player 3 placing token on slot 4
+[2022-12-10 15:18:12] [SEVERE ] player 2 placing token on slot 9
+[2022-12-10 15:18:12] [SEVERE ] removing player 2 token from slot 4
+[2022-12-10 15:18:12] [SEVERE ] removing player 2 token from slot 9
+[2022-12-10 15:18:12] [SEVERE ] removing player 2 token from slot 11
+[2022-12-10 15:18:13] [SEVERE ] player 5 placing token on slot 6
+[2022-12-10 15:18:13] [SEVERE ] removing player 5 token from slot 1
+[2022-12-10 15:18:13] [SEVERE ] removing player 5 token from slot 6
+[2022-12-10 15:18:13] [SEVERE ] removing player 5 token from slot 11
+[2022-12-10 15:18:13] [SEVERE ] player 4 placing token on slot 6
+[2022-12-10 15:18:13] [SEVERE ] removing player 4 token from slot 2
+[2022-12-10 15:18:13] [SEVERE ] removing player 4 token from slot 6
+[2022-12-10 15:18:13] [SEVERE ] removing player 4 token from slot 7
+[2022-12-10 15:18:13] [SEVERE ] player 2 placing token on slot 3
+[2022-12-10 15:18:13] [SEVERE ] player 3 placing token on slot 8
+[2022-12-10 15:18:13] [SEVERE ] removing player 3 token from slot 0
+[2022-12-10 15:18:13] [SEVERE ] removing player 3 token from slot 4
+[2022-12-10 15:18:13] [SEVERE ] removing player 3 token from slot 8
+[2022-12-10 15:18:14] [SEVERE ] player 5 placing token on slot 2
+[2022-12-10 15:18:14] [SEVERE ] player 4 placing token on slot 8
+[2022-12-10 15:18:15] [SEVERE ] player 2 placing token on slot 5
+[2022-12-10 15:18:16] [SEVERE ] player 3 placing token on slot 11
+[2022-12-10 15:18:16] [SEVERE ] player 5 placing token on slot 10
+[2022-12-10 15:18:17] [SEVERE ] player 4 placing token on slot 2
+[2022-12-10 15:18:17] [SEVERE ] player 3 placing token on slot 10
+[2022-12-10 15:18:18] [SEVERE ] player 3 placing token on slot 6
+[2022-12-10 15:18:18] [SEVERE ] removing player 3 token from slot 6
+[2022-12-10 15:18:18] [SEVERE ] removing player 3 token from slot 10
+[2022-12-10 15:18:18] [SEVERE ] removing player 3 token from slot 11
+[2022-12-10 15:18:18] [SEVERE ] player 2 placing token on slot 10
+[2022-12-10 15:18:18] [SEVERE ] removing player 2 token from slot 3
+[2022-12-10 15:18:18] [SEVERE ] removing player 2 token from slot 5
+[2022-12-10 15:18:18] [SEVERE ] removing player 2 token from slot 10
+[2022-12-10 15:18:19] [SEVERE ] player 2 placing token on slot 10
+[2022-12-10 15:18:19] [SEVERE ] player 5 placing token on slot 3
+[2022-12-10 15:18:19] [SEVERE ] removing player 5 token from slot 2
+[2022-12-10 15:18:19] [SEVERE ] removing player 5 token from slot 3
+[2022-12-10 15:18:19] [SEVERE ] removing player 5 token from slot 10
+[2022-12-10 15:18:20] [SEVERE ] player 4 placing token on slot 3
+[2022-12-10 15:18:20] [SEVERE ] removing player 4 token from slot 2
+[2022-12-10 15:18:20] [SEVERE ] removing player 4 token from slot 3
+[2022-12-10 15:18:20] [SEVERE ] removing player 4 token from slot 8
+[2022-12-10 15:18:20] [SEVERE ] player 4 placing token on slot 2
+[2022-12-10 15:18:21] [SEVERE ] player 3 placing token on slot 0
+[2022-12-10 15:18:21] [SEVERE ] player 2 placing token on slot 3
+[2022-12-10 15:18:21] [SEVERE ] player 5 placing token on slot 6
+[2022-12-10 15:18:22] [SEVERE ] player 2 placing token on slot 5
+[2022-12-10 15:18:22] [SEVERE ] removing player 2 token from slot 3
+[2022-12-10 15:18:22] [SEVERE ] removing player 2 token from slot 5
+[2022-12-10 15:18:22] [SEVERE ] removing player 2 token from slot 10
+[2022-12-10 15:18:22] [SEVERE ] player 4 placing token on slot 3
+[2022-12-10 15:18:22] [SEVERE ] player 5 placing token on slot 1
+[2022-12-10 15:18:24] [SEVERE ] player 3 placing token on slot 5
+[2022-12-10 15:18:24] [SEVERE ] player 4 placing token on slot 6
+[2022-12-10 15:18:24] [SEVERE ] removing player 4 token from slot 2
+[2022-12-10 15:18:24] [SEVERE ] removing player 4 token from slot 3
+[2022-12-10 15:18:24] [SEVERE ] removing player 4 token from slot 6
+[2022-12-10 15:18:24] [SEVERE ] player 3 placing token on slot 6
+[2022-12-10 15:18:24] [SEVERE ] removing player 3 token from slot 0
+[2022-12-10 15:18:24] [SEVERE ] removing player 3 token from slot 5
+[2022-12-10 15:18:24] [SEVERE ] removing player 3 token from slot 6
+[2022-12-10 15:18:25] [SEVERE ] player 2 placing token on slot 0
+[2022-12-10 15:18:25] [SEVERE ] player 5 placing token on slot 3
+[2022-12-10 15:18:25] [SEVERE ] removing player 5 token from slot 1
+[2022-12-10 15:18:25] [SEVERE ] removing player 5 token from slot 3
+[2022-12-10 15:18:25] [SEVERE ] removing player 5 token from slot 6
+[2022-12-10 15:18:25] [SEVERE ] player 4 placing token on slot 10
+[2022-12-10 15:18:27] [SEVERE ] player 3 placing token on slot 7
+[2022-12-10 15:18:27] [SEVERE ] player 2 placing token on slot 3
+[2022-12-10 15:18:27] [SEVERE ] player 3 placing token on slot 6
+[2022-12-10 15:18:28] [SEVERE ] player 5 placing token on slot 9
+[2022-12-10 15:18:28] [SEVERE ] player 4 placing token on slot 0
+[2022-12-10 15:18:28] [SEVERE ] player 3 placing token on slot 4
+[2022-12-10 15:18:28] [SEVERE ] removing player 3 token from slot 4
+[2022-12-10 15:18:28] [SEVERE ] removing player 3 token from slot 6
+[2022-12-10 15:18:28] [SEVERE ] removing player 3 token from slot 7
+[2022-12-10 15:18:29] [SEVERE ] player 5 placing token on slot 5
+[2022-12-10 15:18:30] [SEVERE ] player 2 placing token on slot 4
+[2022-12-10 15:18:30] [SEVERE ] removing player 2 token from slot 0
+[2022-12-10 15:18:30] [SEVERE ] removing player 2 token from slot 3
+[2022-12-10 15:18:30] [SEVERE ] removing player 2 token from slot 4
+[2022-12-10 15:18:30] [SEVERE ] player 4 placing token on slot 5
+[2022-12-10 15:18:30] [SEVERE ] removing player 4 token from slot 0
+[2022-12-10 15:18:30] [SEVERE ] removing player 4 token from slot 5
+[2022-12-10 15:18:30] [SEVERE ] removing player 4 token from slot 10
+[2022-12-10 15:18:31] [SEVERE ] player 5 placing token on slot 10
+[2022-12-10 15:18:31] [SEVERE ] removing player 5 token from slot 5
+[2022-12-10 15:18:31] [SEVERE ] removing player 5 token from slot 9
+[2022-12-10 15:18:31] [SEVERE ] removing player 5 token from slot 10
+[2022-12-10 15:18:31] [SEVERE ] player 2 placing token on slot 6
+[2022-12-10 15:18:31] [SEVERE ] player 3 placing token on slot 4
+[2022-12-10 15:18:32] [SEVERE ] player 5 placing token on slot 3
+[2022-12-10 15:18:32] [SEVERE ] player 3 placing token on slot 9
+[2022-12-10 15:18:33] [SEVERE ] player 4 placing token on slot 7
+[2022-12-10 15:18:33] [SEVERE ] player 2 placing token on slot 7
+[2022-12-10 15:18:34] [SEVERE ] player 5 placing token on slot 6
+[2022-12-10 15:18:34] [SEVERE ] player 2 placing token on slot 8
+[2022-12-10 15:18:34] [SEVERE ] removing player 2 token from slot 6
+[2022-12-10 15:18:34] [SEVERE ] removing player 2 token from slot 7
+[2022-12-10 15:18:34] [SEVERE ] removing player 2 token from slot 8
+[2022-12-10 15:18:35] [SEVERE ] player 3 placing token on slot 8
+[2022-12-10 15:18:35] [SEVERE ] removing player 3 token from slot 4
+[2022-12-10 15:18:35] [SEVERE ] removing player 3 token from slot 8
+[2022-12-10 15:18:35] [SEVERE ] removing player 3 token from slot 9
+[2022-12-10 15:18:35] [SEVERE ] player 5 placing token on slot 9
+[2022-12-10 15:18:35] [SEVERE ] removing player 5 token from slot 3
+[2022-12-10 15:18:35] [SEVERE ] removing player 5 token from slot 6
+[2022-12-10 15:18:35] [SEVERE ] removing player 5 token from slot 9
+[2022-12-10 15:18:35] [SEVERE ] player 4 placing token on slot 10
+[2022-12-10 15:18:35] [SEVERE ] player 2 placing token on slot 0
+[2022-12-10 15:18:35] [SEVERE ] player 3 placing token on slot 5
+[2022-12-10 15:18:37] [SEVERE ] player 2 placing token on slot 6
+[2022-12-10 15:18:38] [SEVERE ] player 2 placing token on slot 8
+[2022-12-10 15:18:38] [SEVERE ] removing player 2 token from slot 0
+[2022-12-10 15:18:38] [SEVERE ] removing player 2 token from slot 6
+[2022-12-10 15:18:38] [SEVERE ] removing player 2 token from slot 8
+[2022-12-10 15:18:38] [SEVERE ] player 4 placing token on slot 6
+[2022-12-10 15:18:38] [SEVERE ] removing player 4 token from slot 6
+[2022-12-10 15:18:38] [SEVERE ] removing player 4 token from slot 7
+[2022-12-10 15:18:38] [SEVERE ] removing player 4 token from slot 10
+[2022-12-10 15:18:38] [SEVERE ] player 3 placing token on slot 1
+[2022-12-10 15:18:38] [SEVERE ] player 5 placing token on slot 8
+[2022-12-10 15:18:39] [SEVERE ] player 5 placing token on slot 10
+[2022-12-10 15:18:40] [SEVERE ] player 4 placing token on slot 5
+[2022-12-10 15:18:40] [SEVERE ] player 3 placing token on slot 8
+[2022-12-10 15:18:40] [SEVERE ] removing player 3 token from slot 1
+[2022-12-10 15:18:40] [SEVERE ] removing player 3 token from slot 5
+[2022-12-10 15:18:40] [SEVERE ] removing player 3 token from slot 8
+[2022-12-10 15:18:40] [SEVERE ] player 5 placing token on slot 1
+[2022-12-10 15:18:40] [SEVERE ] removing player 5 token from slot 1
+[2022-12-10 15:18:40] [SEVERE ] removing player 5 token from slot 8
+[2022-12-10 15:18:40] [SEVERE ] removing player 5 token from slot 10
+[2022-12-10 15:18:41] [SEVERE ] player 2 placing token on slot 1
+[2022-12-10 15:18:41] [SEVERE ] player 3 placing token on slot 8
+[2022-12-10 15:18:42] [SEVERE ] player 5 placing token on slot 2
+[2022-12-10 15:18:42] [SEVERE ] player 2 placing token on slot 7
+[2022-12-10 15:18:42] [SEVERE ] player 3 placing token on slot 9
+[2022-12-10 15:18:42] [SEVERE ] player 4 placing token on slot 4
+[2022-12-10 15:18:43] [SEVERE ] player 2 placing token on slot 8
+[2022-12-10 15:18:43] [SEVERE ] removing player 2 token from slot 1
+[2022-12-10 15:18:43] [SEVERE ] removing player 2 token from slot 7
+[2022-12-10 15:18:43] [SEVERE ] removing player 2 token from slot 8
+[2022-12-10 15:18:43] [SEVERE ] player 3 placing token on slot 7
+[2022-12-10 15:18:43] [SEVERE ] removing player 3 token from slot 7
+[2022-12-10 15:18:43] [SEVERE ] removing player 3 token from slot 8
+[2022-12-10 15:18:43] [SEVERE ] removing player 3 token from slot 9
+[2022-12-10 15:18:44] [SEVERE ] player 2 placing token on slot 5
+[2022-12-10 15:18:44] [SEVERE ] player 5 placing token on slot 8
+[2022-12-10 15:18:45] [SEVERE ] player 4 placing token on slot 3
+[2022-12-10 15:18:45] [SEVERE ] removing player 4 token from slot 3
+[2022-12-10 15:18:45] [SEVERE ] removing player 4 token from slot 4
+[2022-12-10 15:18:45] [SEVERE ] removing player 4 token from slot 5
+[2022-12-10 15:18:45] [SEVERE ] player 3 placing token on slot 11
+[2022-12-10 15:18:46] [SEVERE ] player 5 placing token on slot 9
+[2022-12-10 15:18:46] [SEVERE ] removing player 5 token from slot 2
+[2022-12-10 15:18:46] [SEVERE ] removing player 5 token from slot 8
+[2022-12-10 15:18:46] [SEVERE ] removing player 5 token from slot 9
+[2022-12-10 15:18:46] [SEVERE ] player 2 placing token on slot 11
+[2022-12-10 15:18:46] [SEVERE ] player 4 placing token on slot 6
+[2022-12-10 15:18:47] [SEVERE ] player 4 placing token on slot 8
+[2022-12-10 15:18:47] [SEVERE ] player 5 placing token on slot 9
+[2022-12-10 15:18:47] [SEVERE ] player 3 placing token on slot 5
+[2022-12-10 15:18:48] [SEVERE ] player 2 placing token on slot 9
+[2022-12-10 15:18:48] [SEVERE ] removing player 2 token from slot 5
+[2022-12-10 15:18:48] [SEVERE ] removing player 2 token from slot 9
+[2022-12-10 15:18:48] [SEVERE ] removing player 2 token from slot 11
+[2022-12-10 15:18:49] [SEVERE ] player 3 placing token on slot 1
+[2022-12-10 15:18:49] [SEVERE ] removing player 3 token from slot 1
+[2022-12-10 15:18:49] [SEVERE ] removing player 3 token from slot 5
+[2022-12-10 15:18:49] [SEVERE ] removing player 3 token from slot 11
+[2022-12-10 15:18:49] [SEVERE ] player 3 placing token on slot 0
+[2022-12-10 15:18:49] [SEVERE ] player 5 placing token on slot 5
+[2022-12-10 15:18:49] [SEVERE ] player 2 placing token on slot 11
+[2022-12-10 15:18:50] [SEVERE ] player 4 placing token on slot 5
+[2022-12-10 15:18:50] [SEVERE ] removing player 4 token from slot 5
+[2022-12-10 15:18:50] [SEVERE ] removing player 4 token from slot 6
+[2022-12-10 15:18:50] [SEVERE ] removing player 4 token from slot 8
+[2022-12-10 15:18:50] [SEVERE ] player 5 placing token on slot 4
+[2022-12-10 15:18:50] [SEVERE ] removing player 5 token from slot 4
+[2022-12-10 15:18:50] [SEVERE ] removing player 5 token from slot 5
+[2022-12-10 15:18:50] [SEVERE ] removing player 5 token from slot 9
+[2022-12-10 15:18:51] [SEVERE ] player 2 placing token on slot 5
+[2022-12-10 15:18:51] [SEVERE ] player 4 placing token on slot 7
+[2022-12-10 15:18:51] [SEVERE ] player 5 placing token on slot 5
+[2022-12-10 15:18:52] [SEVERE ] player 3 placing token on slot 7
+[2022-12-10 15:18:52] [SEVERE ] player 2 placing token on slot 0
+[2022-12-10 15:18:52] [SEVERE ] removing player 2 token from slot 0
+[2022-12-10 15:18:52] [SEVERE ] removing player 2 token from slot 5
+[2022-12-10 15:18:52] [SEVERE ] removing player 2 token from slot 11
+[2022-12-10 15:18:52] [SEVERE ] player 5 placing token on slot 2
+[2022-12-10 15:18:53] [SEVERE ] player 2 placing token on slot 5
+[2022-12-10 15:18:53] [SEVERE ] player 4 placing token on slot 1
+[2022-12-10 15:18:54] [SEVERE ] player 5 placing token on slot 7
+[2022-12-10 15:18:54] [SEVERE ] removing player 5 token from slot 2
+[2022-12-10 15:18:54] [SEVERE ] removing player 5 token from slot 5
+[2022-12-10 15:18:54] [SEVERE ] removing player 5 token from slot 7
+[2022-12-10 15:18:54] [SEVERE ] player 2 placing token on slot 0
+[2022-12-10 15:18:54] [SEVERE ] player 3 placing token on slot 10
+[2022-12-10 15:18:54] [SEVERE ] removing player 3 token from slot 0
+[2022-12-10 15:18:54] [SEVERE ] removing player 3 token from slot 7
+[2022-12-10 15:18:54] [SEVERE ] removing player 3 token from slot 10
+[2022-12-10 15:18:55] [SEVERE ] player 4 placing token on slot 8
+[2022-12-10 15:18:55] [SEVERE ] removing player 4 token from slot 1
+[2022-12-10 15:18:55] [SEVERE ] removing player 4 token from slot 7
+[2022-12-10 15:18:55] [SEVERE ] removing player 4 token from slot 8
+[2022-12-10 15:18:55] [SEVERE ] player 5 placing token on slot 1
+[2022-12-10 15:18:56] [SEVERE ] player 2 placing token on slot 3
+[2022-12-10 15:18:56] [SEVERE ] removing player 2 token from slot 0
+[2022-12-10 15:18:56] [SEVERE ] removing player 2 token from slot 3
+[2022-12-10 15:18:56] [SEVERE ] removing player 2 token from slot 5
+[2022-12-10 15:18:57] [SEVERE ] player 2 placing token on slot 6
+[2022-12-10 15:18:57] [SEVERE ] player 4 placing token on slot 9
+[2022-12-10 15:18:57] [SEVERE ] player 3 placing token on slot 1
+[2022-12-10 15:18:58] [SEVERE ] player 5 placing token on slot 7
+[2022-12-10 15:18:58] [SEVERE ] player 2 placing token on slot 7
+[2022-12-10 15:18:58] [SEVERE ] player 4 placing token on slot 3
+[2022-12-10 15:18:59] [SEVERE ] player 2 placing token on slot 3
+[2022-12-10 15:18:59] [SEVERE ] removing player 2 token from slot 3
+[2022-12-10 15:18:59] [SEVERE ] removing player 2 token from slot 6
+[2022-12-10 15:18:59] [SEVERE ] removing player 2 token from slot 7
+[2022-12-10 15:18:59] [SEVERE ] player 4 placing token on slot 11
+[2022-12-10 15:18:59] [SEVERE ] removing player 4 token from slot 3
+[2022-12-10 15:18:59] [SEVERE ] removing player 4 token from slot 9
+[2022-12-10 15:18:59] [SEVERE ] removing player 4 token from slot 11
+[2022-12-10 15:19:00] [SEVERE ] player 3 placing token on slot 7
+[2022-12-10 15:19:00] [SEVERE ] player 5 placing token on slot 6
+[2022-12-10 15:19:00] [SEVERE ] removing player 5 token from slot 1
+[2022-12-10 15:19:00] [SEVERE ] removing player 5 token from slot 6
+[2022-12-10 15:19:00] [SEVERE ] removing player 5 token from slot 7
+[2022-12-10 15:19:01] [SEVERE ] player 2 placing token on slot 10
+[2022-12-10 15:19:01] [SEVERE ] player 3 placing token on slot 11
+[2022-12-10 15:19:01] [SEVERE ] removing player 3 token from slot 1
+[2022-12-10 15:19:01] [SEVERE ] removing player 3 token from slot 7
+[2022-12-10 15:19:01] [SEVERE ] removing player 3 token from slot 11
+[2022-12-10 15:19:02] [SEVERE ] player 4 placing token on slot 4
+[2022-12-10 15:19:02] [SEVERE ] player 5 placing token on slot 6
+[2022-12-10 15:19:02] [SEVERE ] removing tokens from slot 0
+[2022-12-10 15:19:02] [SEVERE ] removing card from slot 0
+[2022-12-10 15:19:02] [SEVERE ] removing tokens from slot 1
+[2022-12-10 15:19:02] [SEVERE ] removing card from slot 1
+[2022-12-10 15:19:02] [SEVERE ] removing tokens from slot 2
+[2022-12-10 15:19:02] [SEVERE ] removing card from slot 2
+[2022-12-10 15:19:02] [SEVERE ] removing tokens from slot 3
+[2022-12-10 15:19:02] [SEVERE ] removing card from slot 3
+[2022-12-10 15:19:03] [SEVERE ] removing tokens from slot 4
+[2022-12-10 15:19:03] [SEVERE ] removing card from slot 4
+[2022-12-10 15:19:03] [SEVERE ] removing tokens from slot 5
+[2022-12-10 15:19:03] [SEVERE ] removing card from slot 5
+[2022-12-10 15:19:03] [SEVERE ] removing tokens from slot 6
+[2022-12-10 15:19:03] [SEVERE ] removing card from slot 6
+[2022-12-10 15:19:03] [SEVERE ] removing tokens from slot 7
+[2022-12-10 15:19:03] [SEVERE ] removing card from slot 7
+[2022-12-10 15:19:03] [SEVERE ] removing tokens from slot 8
+[2022-12-10 15:19:03] [SEVERE ] removing card from slot 8
+[2022-12-10 15:19:03] [SEVERE ] removing tokens from slot 9
+[2022-12-10 15:19:03] [SEVERE ] removing card from slot 9
+[2022-12-10 15:19:03] [SEVERE ] removing tokens from slot 10
+[2022-12-10 15:19:03] [SEVERE ] removing card from slot 10
+[2022-12-10 15:19:03] [SEVERE ] removing tokens from slot 11
+[2022-12-10 15:19:03] [SEVERE ] removing card from slot 11
+[2022-12-10 15:19:03] [SEVERE ] placing card 8 in slot 0
+[2022-12-10 15:19:03] [SEVERE ] placing card 79 in slot 1
+[2022-12-10 15:19:04] [SEVERE ] placing card 31 in slot 2
+[2022-12-10 15:19:04] [SEVERE ] placing card 68 in slot 3
+[2022-12-10 15:19:04] [SEVERE ] placing card 39 in slot 4
+[2022-12-10 15:19:04] [SEVERE ] placing card 10 in slot 5
+[2022-12-10 15:19:04] [SEVERE ] placing card 3 in slot 6
+[2022-12-10 15:19:04] [SEVERE ] placing card 59 in slot 7
+[2022-12-10 15:19:04] [SEVERE ] placing card 1 in slot 8
+[2022-12-10 15:19:04] [SEVERE ] placing card 57 in slot 9
+[2022-12-10 15:19:05] [SEVERE ] placing card 13 in slot 10
+[2022-12-10 15:19:05] [SEVERE ] placing card 73 in slot 11
+[2022-12-10 15:19:05] [SEVERE ] player 2 placing token on slot 11
+[2022-12-10 15:19:06] [SEVERE ] player 4 placing token on slot 9
+[2022-12-10 15:19:06] [SEVERE ] player 2 placing token on slot 1
+[2022-12-10 15:19:06] [SEVERE ] player 5 placing token on slot 1
+[2022-12-10 15:19:07] [SEVERE ] player 3 placing token on slot 1
+[2022-12-10 15:19:07] [SEVERE ] player 2 placing token on slot 3
+[2022-12-10 15:19:07] [SEVERE ] removing player 2 token from slot 1
+[2022-12-10 15:19:07] [SEVERE ] removing player 2 token from slot 3
+[2022-12-10 15:19:07] [SEVERE ] removing player 2 token from slot 11
+[2022-12-10 15:19:07] [SEVERE ] player 3 placing token on slot 2
+[2022-12-10 15:19:08] [SEVERE ] player 4 placing token on slot 3
+[2022-12-10 15:19:09] [SEVERE ] player 5 placing token on slot 11
+[2022-12-10 15:19:09] [SEVERE ] player 4 placing token on slot 5
+[2022-12-10 15:19:09] [SEVERE ] removing player 4 token from slot 3
+[2022-12-10 15:19:09] [SEVERE ] removing player 4 token from slot 5
+[2022-12-10 15:19:09] [SEVERE ] removing player 4 token from slot 9
+[2022-12-10 15:19:09] [SEVERE ] player 3 placing token on slot 7
+[2022-12-10 15:19:09] [SEVERE ] removing player 3 token from slot 1
+[2022-12-10 15:19:09] [SEVERE ] removing player 3 token from slot 2
+[2022-12-10 15:19:09] [SEVERE ] removing player 3 token from slot 7
+[2022-12-10 15:19:09] [SEVERE ] player 2 placing token on slot 6
+[2022-12-10 15:19:11] [SEVERE ] player 5 placing token on slot 8
+[2022-12-10 15:19:11] [SEVERE ] removing player 5 token from slot 1
+[2022-12-10 15:19:11] [SEVERE ] removing player 5 token from slot 8
+[2022-12-10 15:19:11] [SEVERE ] removing player 5 token from slot 11
+[2022-12-10 15:19:11] [SEVERE ] player 3 placing token on slot 1
+[2022-12-10 15:19:11] [SEVERE ] player 4 placing token on slot 2
+[2022-12-10 15:19:11] [SEVERE ] player 2 placing token on slot 3
+[2022-12-10 15:19:12] [SEVERE ] player 5 placing token on slot 8
+[2022-12-10 15:19:12] [SEVERE ] player 2 placing token on slot 0
+[2022-12-10 15:19:12] [SEVERE ] removing player 2 token from slot 0
+[2022-12-10 15:19:12] [SEVERE ] removing player 2 token from slot 3
+[2022-12-10 15:19:12] [SEVERE ] removing player 2 token from slot 6
+[2022-12-10 15:19:12] [SEVERE ] player 4 placing token on slot 4
+[2022-12-10 15:19:13] [SEVERE ] player 2 placing token on slot 11
+[2022-12-10 15:19:13] [SEVERE ] player 3 placing token on slot 5
+[2022-12-10 15:19:13] [SEVERE ] player 5 placing token on slot 7
+[2022-12-10 15:19:14] [SEVERE ] player 4 placing token on slot 1
+[2022-12-10 15:19:14] [SEVERE ] removing player 4 token from slot 1
+[2022-12-10 15:19:14] [SEVERE ] removing player 4 token from slot 2
+[2022-12-10 15:19:14] [SEVERE ] removing player 4 token from slot 4
+[2022-12-10 15:19:14] [SEVERE ] player 5 placing token on slot 11
+[2022-12-10 15:19:14] [SEVERE ] removing player 5 token from slot 7
+[2022-12-10 15:19:14] [SEVERE ] removing player 5 token from slot 8
+[2022-12-10 15:19:14] [SEVERE ] removing player 5 token from slot 11
+[2022-12-10 15:19:15] [SEVERE ] player 2 placing token on slot 2
+[2022-12-10 15:19:15] [SEVERE ] player 3 placing token on slot 2
+[2022-12-10 15:19:15] [SEVERE ] setting player 3 score to 1
+[2022-12-10 15:19:15] [SEVERE ] removing tokens from slot 1
+[2022-12-10 15:19:15] [SEVERE ] removing card from slot 1
+[2022-12-10 15:19:15] [SEVERE ] removing tokens from slot 2
+[2022-12-10 15:19:15] [SEVERE ] removing card from slot 2
+[2022-12-10 15:19:15] [SEVERE ] removing tokens from slot 5
+[2022-12-10 15:19:15] [SEVERE ] removing card from slot 5
+[2022-12-10 15:19:15] [SEVERE ] placing card 22 in slot 1
+[2022-12-10 15:19:16] [SEVERE ] placing card 80 in slot 2
+[2022-12-10 15:19:16] [SEVERE ] placing card 50 in slot 5
+[2022-12-10 15:19:16] [SEVERE ] player 5 placing token on slot 6
+[2022-12-10 15:19:16] [SEVERE ] player 3 placing token on slot 1
+[2022-12-10 15:19:16] [SEVERE ] player 4 placing token on slot 1
+[2022-12-10 15:19:17] [SEVERE ] player 5 placing token on slot 4
+[2022-12-10 15:19:17] [SEVERE ] player 2 placing token on slot 10
+[2022-12-10 15:19:17] [SEVERE ] player 4 placing token on slot 9
+[2022-12-10 15:19:17] [SEVERE ] player 3 placing token on slot 0
+[2022-12-10 15:19:18] [SEVERE ] player 4 placing token on slot 3
+[2022-12-10 15:19:18] [SEVERE ] removing player 4 token from slot 1
+[2022-12-10 15:19:18] [SEVERE ] removing player 4 token from slot 3
+[2022-12-10 15:19:18] [SEVERE ] removing player 4 token from slot 9
+[2022-12-10 15:19:19] [SEVERE ] player 5 placing token on slot 1
+[2022-12-10 15:19:19] [SEVERE ] removing player 5 token from slot 1
+[2022-12-10 15:19:19] [SEVERE ] removing player 5 token from slot 4
+[2022-12-10 15:19:19] [SEVERE ] removing player 5 token from slot 6
+[2022-12-10 15:19:20] [SEVERE ] player 3 placing token on slot 8
+[2022-12-10 15:19:20] [SEVERE ] removing player 3 token from slot 0
+[2022-12-10 15:19:20] [SEVERE ] removing player 3 token from slot 1
+[2022-12-10 15:19:20] [SEVERE ] removing player 3 token from slot 8
+[2022-12-10 15:19:20] [SEVERE ] player 4 placing token on slot 4
+[2022-12-10 15:19:21] [SEVERE ] player 3 placing token on slot 4
+[2022-12-10 15:19:21] [SEVERE ] player 4 placing token on slot 3
+[2022-12-10 15:19:22] [SEVERE ] player 5 placing token on slot 2
+[2022-12-10 15:19:23] [SEVERE ] player 4 placing token on slot 9
+[2022-12-10 15:19:23] [SEVERE ] removing player 4 token from slot 3
+[2022-12-10 15:19:23] [SEVERE ] removing player 4 token from slot 4
+[2022-12-10 15:19:23] [SEVERE ] removing player 4 token from slot 9
+[2022-12-10 15:19:23] [SEVERE ] player 3 placing token on slot 1
+[2022-12-10 15:19:24] [SEVERE ] player 5 placing token on slot 10
+[2022-12-10 15:19:26] [SEVERE ] player 3 placing token on slot 0
+[2022-12-10 15:19:26] [SEVERE ] removing player 3 token from slot 0
+[2022-12-10 15:19:26] [SEVERE ] removing player 3 token from slot 1
+[2022-12-10 15:19:26] [SEVERE ] removing player 3 token from slot 4
+[2022-12-10 15:19:26] [SEVERE ] player 4 placing token on slot 3
+[2022-12-10 15:19:27] [SEVERE ] player 5 placing token on slot 3
+[2022-12-10 15:19:27] [SEVERE ] removing player 5 token from slot 2
+[2022-12-10 15:19:27] [SEVERE ] removing player 5 token from slot 3
+[2022-12-10 15:19:27] [SEVERE ] removing player 5 token from slot 10
+[2022-12-10 15:19:27] [SEVERE ] player 3 placing token on slot 2
+[2022-12-10 15:19:29] [SEVERE ] player 4 placing token on slot 1
+[2022-12-10 15:19:29] [SEVERE ] player 5 placing token on slot 11
+[2022-12-10 15:19:30] [SEVERE ] player 3 placing token on slot 8
+[2022-12-10 15:19:30] [SEVERE ] player 5 placing token on slot 0
+[2022-12-10 15:19:30] [SEVERE ] player 4 placing token on slot 6
+[2022-12-10 15:19:30] [SEVERE ] removing player 4 token from slot 1
+[2022-12-10 15:19:30] [SEVERE ] removing player 4 token from slot 3
+[2022-12-10 15:19:30] [SEVERE ] removing player 4 token from slot 6
+[2022-12-10 15:19:31] [SEVERE ] player 3 placing token on slot 5
+[2022-12-10 15:19:31] [SEVERE ] removing player 3 token from slot 2
+[2022-12-10 15:19:31] [SEVERE ] removing player 3 token from slot 5
+[2022-12-10 15:19:31] [SEVERE ] removing player 3 token from slot 8
+[2022-12-10 15:19:32] [SEVERE ] player 4 placing token on slot 0
+[2022-12-10 15:19:32] [SEVERE ] player 5 placing token on slot 1
+[2022-12-10 15:19:32] [SEVERE ] removing player 5 token from slot 0
+[2022-12-10 15:19:32] [SEVERE ] removing player 5 token from slot 1
+[2022-12-10 15:19:32] [SEVERE ] removing player 5 token from slot 11
+[2022-12-10 15:19:33] [SEVERE ] player 5 placing token on slot 0
+[2022-12-10 15:19:34] [SEVERE ] player 4 placing token on slot 10
+[2022-12-10 15:19:34] [SEVERE ] player 3 placing token on slot 3
+[2022-12-10 15:19:34] [SEVERE ] player 5 placing token on slot 10
+[2022-12-10 15:19:35] [SEVERE ] player 4 placing token on slot 11
+[2022-12-10 15:19:35] [SEVERE ] removing player 4 token from slot 0
+[2022-12-10 15:19:35] [SEVERE ] removing player 4 token from slot 10
+[2022-12-10 15:19:35] [SEVERE ] removing player 4 token from slot 11
+[2022-12-10 15:19:35] [SEVERE ] player 5 placing token on slot 8
+[2022-12-10 15:19:35] [SEVERE ] removing player 5 token from slot 0
+[2022-12-10 15:19:35] [SEVERE ] removing player 5 token from slot 8
+[2022-12-10 15:19:35] [SEVERE ] removing player 5 token from slot 10
+[2022-12-10 15:19:35] [SEVERE ] player 3 placing token on slot 1
+[2022-12-10 15:19:37] [SEVERE ] player 4 placing token on slot 9
+[2022-12-10 15:19:37] [SEVERE ] player 5 placing token on slot 6
+[2022-12-10 15:19:37] [SEVERE ] player 3 placing token on slot 5
+[2022-12-10 15:19:37] [SEVERE ] removing player 3 token from slot 1
+[2022-12-10 15:19:37] [SEVERE ] removing player 3 token from slot 3
+[2022-12-10 15:19:37] [SEVERE ] removing player 3 token from slot 5
+[2022-12-10 15:19:38] [SEVERE ] player 4 placing token on slot 5
+[2022-12-10 15:19:39] [SEVERE ] player 5 placing token on slot 9
+[2022-12-10 15:19:39] [SEVERE ] player 3 placing token on slot 1
+[2022-12-10 15:19:40] [SEVERE ] player 4 placing token on slot 8
+[2022-12-10 15:19:40] [SEVERE ] removing player 4 token from slot 5
+[2022-12-10 15:19:40] [SEVERE ] removing player 4 token from slot 8
+[2022-12-10 15:19:40] [SEVERE ] removing player 4 token from slot 9
+[2022-12-10 15:19:41] [SEVERE ] player 5 placing token on slot 7
+[2022-12-10 15:19:41] [SEVERE ] removing player 5 token from slot 6
+[2022-12-10 15:19:41] [SEVERE ] removing player 5 token from slot 7
+[2022-12-10 15:19:41] [SEVERE ] removing player 5 token from slot 9
+[2022-12-10 15:19:41] [SEVERE ] player 3 placing token on slot 5
+[2022-12-10 15:19:42] [SEVERE ] player 5 placing token on slot 5
+[2022-12-10 15:19:43] [SEVERE ] player 3 placing token on slot 0
+[2022-12-10 15:19:43] [SEVERE ] removing player 3 token from slot 0
+[2022-12-10 15:19:43] [SEVERE ] removing player 3 token from slot 1
+[2022-12-10 15:19:43] [SEVERE ] removing player 3 token from slot 5
+[2022-12-10 15:19:43] [SEVERE ] player 4 placing token on slot 4
+[2022-12-10 15:19:43] [SEVERE ] player 5 placing token on slot 0
+[2022-12-10 15:19:45] [SEVERE ] player 4 placing token on slot 7
+[2022-12-10 15:19:45] [SEVERE ] player 3 placing token on slot 6
+[2022-12-10 15:19:46] [SEVERE ] player 5 placing token on slot 1
+[2022-12-10 15:19:46] [SEVERE ] removing player 5 token from slot 0
+[2022-12-10 15:19:46] [SEVERE ] removing player 5 token from slot 1
+[2022-12-10 15:19:46] [SEVERE ] removing player 5 token from slot 5
+[2022-12-10 15:19:46] [SEVERE ] player 3 placing token on slot 11
+[2022-12-10 15:19:46] [SEVERE ] player 4 placing token on slot 10
+[2022-12-10 15:19:46] [SEVERE ] removing player 4 token from slot 4
+[2022-12-10 15:19:46] [SEVERE ] removing player 4 token from slot 7
+[2022-12-10 15:19:46] [SEVERE ] removing player 4 token from slot 10
+[2022-12-10 15:19:47] [SEVERE ] player 5 placing token on slot 2
+[2022-12-10 15:19:47] [SEVERE ] player 4 placing token on slot 3
+[2022-12-10 15:19:48] [SEVERE ] player 3 placing token on slot 3
+[2022-12-10 15:19:48] [SEVERE ] removing player 3 token from slot 3
+[2022-12-10 15:19:48] [SEVERE ] removing player 3 token from slot 6
+[2022-12-10 15:19:48] [SEVERE ] removing player 3 token from slot 11
+[2022-12-10 15:19:49] [SEVERE ] player 3 placing token on slot 6
+[2022-12-10 15:19:49] [SEVERE ] player 4 placing token on slot 7
+[2022-12-10 15:19:50] [SEVERE ] player 5 placing token on slot 7
+[2022-12-10 15:19:50] [SEVERE ] player 4 placing token on slot 4
+[2022-12-10 15:19:50] [SEVERE ] removing player 4 token from slot 3
+[2022-12-10 15:19:50] [SEVERE ] removing player 4 token from slot 4
+[2022-12-10 15:19:50] [SEVERE ] removing player 4 token from slot 7
+[2022-12-10 15:19:51] [SEVERE ] player 3 placing token on slot 3
+[2022-12-10 15:19:51] [SEVERE ] player 4 placing token on slot 11
+[2022-12-10 15:19:52] [SEVERE ] player 5 placing token on slot 5
+[2022-12-10 15:19:52] [SEVERE ] removing player 5 token from slot 2
+[2022-12-10 15:19:52] [SEVERE ] removing player 5 token from slot 5
+[2022-12-10 15:19:52] [SEVERE ] removing player 5 token from slot 7
+[2022-12-10 15:19:53] [SEVERE ] player 4 placing token on slot 1
+[2022-12-10 15:19:53] [SEVERE ] player 3 placing token on slot 5
+[2022-12-10 15:19:53] [SEVERE ] removing player 3 token from slot 3
+[2022-12-10 15:19:53] [SEVERE ] removing player 3 token from slot 5
+[2022-12-10 15:19:53] [SEVERE ] removing player 3 token from slot 6
+[2022-12-10 15:19:54] [SEVERE ] player 4 placing token on slot 5
+[2022-12-10 15:19:54] [SEVERE ] removing player 4 token from slot 1
+[2022-12-10 15:19:54] [SEVERE ] removing player 4 token from slot 5
+[2022-12-10 15:19:54] [SEVERE ] removing player 4 token from slot 11
+[2022-12-10 15:19:54] [SEVERE ] player 5 placing token on slot 3
+[2022-12-10 15:19:56] [SEVERE ] player 3 placing token on slot 4
+[2022-12-10 15:19:56] [SEVERE ] player 4 placing token on slot 3
+[2022-12-10 15:19:57] [SEVERE ] player 3 placing token on slot 11
+[2022-12-10 15:19:57] [SEVERE ] player 5 placing token on slot 4
+[2022-12-10 15:19:58] [SEVERE ] player 4 placing token on slot 9
+[2022-12-10 15:19:58] [SEVERE ] player 5 placing token on slot 11
+[2022-12-10 15:19:58] [SEVERE ] removing player 5 token from slot 3
+[2022-12-10 15:19:58] [SEVERE ] removing player 5 token from slot 4
+[2022-12-10 15:19:58] [SEVERE ] removing player 5 token from slot 11
+[2022-12-10 15:19:59] [SEVERE ] player 3 placing token on slot 7
+[2022-12-10 15:19:59] [SEVERE ] removing player 3 token from slot 4
+[2022-12-10 15:19:59] [SEVERE ] removing player 3 token from slot 7
+[2022-12-10 15:19:59] [SEVERE ] removing player 3 token from slot 11
+[2022-12-10 15:20:00] [SEVERE ] player 3 placing token on slot 6
+[2022-12-10 15:20:01] [SEVERE ] player 4 placing token on slot 0
+[2022-12-10 15:20:01] [SEVERE ] removing player 4 token from slot 0
+[2022-12-10 15:20:01] [SEVERE ] removing player 4 token from slot 3
+[2022-12-10 15:20:01] [SEVERE ] removing player 4 token from slot 9
+[2022-12-10 15:20:01] [SEVERE ] player 5 placing token on slot 8
+[2022-12-10 15:20:02] [SEVERE ] player 3 placing token on slot 5
+[2022-12-10 15:20:03] [SEVERE ] player 5 placing token on slot 2
+[2022-12-10 15:20:03] [SEVERE ] player 4 placing token on slot 10
+[2022-12-10 15:20:04] [SEVERE ] player 4 placing token on slot 0
+[2022-12-10 15:20:05] [SEVERE ] player 5 placing token on slot 7
+[2022-12-10 15:20:05] [SEVERE ] removing player 5 token from slot 2
+[2022-12-10 15:20:05] [SEVERE ] removing player 5 token from slot 7
+[2022-12-10 15:20:05] [SEVERE ] removing player 5 token from slot 8
+[2022-12-10 15:20:05] [SEVERE ] player 3 placing token on slot 9
+[2022-12-10 15:20:05] [SEVERE ] removing player 3 token from slot 5
+[2022-12-10 15:20:05] [SEVERE ] removing player 3 token from slot 6
+[2022-12-10 15:20:05] [SEVERE ] removing player 3 token from slot 9
+[2022-12-10 15:20:07] [SEVERE ] player 5 placing token on slot 2
+[2022-12-10 15:20:07] [SEVERE ] player 4 placing token on slot 2
+[2022-12-10 15:20:07] [SEVERE ] removing player 4 token from slot 0
+[2022-12-10 15:20:07] [SEVERE ] removing player 4 token from slot 2
+[2022-12-10 15:20:07] [SEVERE ] removing player 4 token from slot 10
+[2022-12-10 15:20:07] [SEVERE ] player 5 placing token on slot 6
+[2022-12-10 15:20:08] [SEVERE ] player 3 placing token on slot 4
+[2022-12-10 15:20:09] [SEVERE ] player 4 placing token on slot 0
+[2022-12-10 15:20:10] [SEVERE ] player 5 placing token on slot 0
+[2022-12-10 15:20:10] [SEVERE ] removing player 5 token from slot 0
+[2022-12-10 15:20:10] [SEVERE ] removing player 5 token from slot 2
+[2022-12-10 15:20:10] [SEVERE ] removing player 5 token from slot 6
+[2022-12-10 15:20:10] [SEVERE ] player 3 placing token on slot 2
+[2022-12-10 15:20:10] [SEVERE ] player 4 placing token on slot 3
+[2022-12-10 15:20:11] [SEVERE ] player 5 placing token on slot 7
+[2022-12-10 15:20:12] [SEVERE ] player 3 placing token on slot 9
+[2022-12-10 15:20:12] [SEVERE ] removing player 3 token from slot 2
+[2022-12-10 15:20:12] [SEVERE ] removing player 3 token from slot 4
+[2022-12-10 15:20:12] [SEVERE ] removing player 3 token from slot 9
+[2022-12-10 15:20:12] [SEVERE ] player 5 placing token on slot 11
+[2022-12-10 15:20:13] [SEVERE ] player 4 placing token on slot 5
+[2022-12-10 15:20:13] [SEVERE ] removing player 4 token from slot 0
+[2022-12-10 15:20:13] [SEVERE ] removing player 4 token from slot 3
+[2022-12-10 15:20:13] [SEVERE ] removing player 4 token from slot 5
+[2022-12-10 15:20:13] [SEVERE ] player 5 placing token on slot 2
+[2022-12-10 15:20:13] [SEVERE ] removing player 5 token from slot 2
+[2022-12-10 15:20:13] [SEVERE ] removing player 5 token from slot 7
+[2022-12-10 15:20:13] [SEVERE ] removing player 5 token from slot 11
+[2022-12-10 15:20:14] [SEVERE ] player 3 placing token on slot 0
+[2022-12-10 15:20:14] [SEVERE ] player 5 placing token on slot 4
+[2022-12-10 15:20:15] [SEVERE ] player 3 placing token on slot 11
+[2022-12-10 15:20:15] [SEVERE ] player 4 placing token on slot 5
+[2022-12-10 15:20:15] [SEVERE ] removing tokens from slot 0
+[2022-12-10 15:20:15] [SEVERE ] removing card from slot 0
+[2022-12-10 15:20:16] [SEVERE ] player 4 placing token on slot 3
+[2022-12-10 15:20:16] [SEVERE ] removing tokens from slot 1
+[2022-12-10 15:20:16] [SEVERE ] removing card from slot 1
+[2022-12-10 15:20:16] [SEVERE ] removing tokens from slot 2
+[2022-12-10 15:20:16] [SEVERE ] removing card from slot 2
+[2022-12-10 15:20:16] [SEVERE ] removing tokens from slot 3
+[2022-12-10 15:20:16] [SEVERE ] removing card from slot 3
+[2022-12-10 15:20:16] [SEVERE ] player 3 placing token on slot 10
+[2022-12-10 15:20:16] [SEVERE ] removing tokens from slot 4
+[2022-12-10 15:20:16] [SEVERE ] removing card from slot 4
+[2022-12-10 15:20:16] [SEVERE ] removing tokens from slot 5
+[2022-12-10 15:20:16] [SEVERE ] removing card from slot 5
+[2022-12-10 15:20:16] [SEVERE ] removing tokens from slot 6
+[2022-12-10 15:20:16] [SEVERE ] removing card from slot 6
+[2022-12-10 15:20:16] [SEVERE ] removing tokens from slot 7
+[2022-12-10 15:20:16] [SEVERE ] removing card from slot 7
+[2022-12-10 15:20:16] [SEVERE ] removing tokens from slot 8
+[2022-12-10 15:20:16] [SEVERE ] removing card from slot 8
+[2022-12-10 15:20:16] [SEVERE ] removing tokens from slot 9
+[2022-12-10 15:20:16] [SEVERE ] removing card from slot 9
+[2022-12-10 15:20:17] [SEVERE ] removing tokens from slot 10
+[2022-12-10 15:20:17] [SEVERE ] removing card from slot 10
+[2022-12-10 15:20:17] [SEVERE ] removing tokens from slot 11
+[2022-12-10 15:20:17] [SEVERE ] removing card from slot 11
+[2022-12-10 15:20:17] [SEVERE ] placing card 13 in slot 0
+[2022-12-10 15:20:17] [SEVERE ] placing card 48 in slot 1
+[2022-12-10 15:20:17] [SEVERE ] placing card 21 in slot 2
+[2022-12-10 15:20:17] [SEVERE ] placing card 15 in slot 3
+[2022-12-10 15:20:17] [SEVERE ] placing card 23 in slot 4
+[2022-12-10 15:20:17] [SEVERE ] placing card 45 in slot 5
+[2022-12-10 15:20:17] [SEVERE ] placing card 11 in slot 6
+[2022-12-10 15:20:18] [SEVERE ] placing card 36 in slot 7
+[2022-12-10 15:20:18] [SEVERE ] placing card 9 in slot 8
+[2022-12-10 15:20:18] [SEVERE ] placing card 28 in slot 9
+[2022-12-10 15:20:18] [SEVERE ] placing card 43 in slot 10
+[2022-12-10 15:20:18] [SEVERE ] placing card 27 in slot 11
+[2022-12-10 15:20:19] [SEVERE ] player 3 placing token on slot 11
+[2022-12-10 15:20:19] [SEVERE ] player 5 placing token on slot 0
+[2022-12-10 15:20:20] [SEVERE ] player 2 placing token on slot 1
+[2022-12-10 15:20:20] [SEVERE ] player 4 placing token on slot 0
+[2022-12-10 15:20:21] [SEVERE ] player 3 placing token on slot 5
+[2022-12-10 15:20:21] [SEVERE ] player 4 placing token on slot 5
+[2022-12-10 15:20:22] [SEVERE ] player 5 placing token on slot 1
+[2022-12-10 15:20:22] [SEVERE ] player 2 placing token on slot 11
+[2022-12-10 15:20:22] [SEVERE ] player 5 placing token on slot 3
+[2022-12-10 15:20:22] [SEVERE ] removing player 5 token from slot 0
+[2022-12-10 15:20:22] [SEVERE ] removing player 5 token from slot 1
+[2022-12-10 15:20:22] [SEVERE ] removing player 5 token from slot 3
+[2022-12-10 15:20:23] [SEVERE ] player 4 placing token on slot 9
+[2022-12-10 15:20:23] [SEVERE ] removing player 4 token from slot 0
+[2022-12-10 15:20:23] [SEVERE ] removing player 4 token from slot 5
+[2022-12-10 15:20:23] [SEVERE ] removing player 4 token from slot 9
+[2022-12-10 15:20:23] [SEVERE ] player 3 placing token on slot 1
+[2022-12-10 15:20:23] [SEVERE ] removing player 3 token from slot 1
+[2022-12-10 15:20:23] [SEVERE ] removing player 3 token from slot 5
+[2022-12-10 15:20:23] [SEVERE ] removing player 3 token from slot 11
+[2022-12-10 15:20:23] [SEVERE ] player 2 placing token on slot 3
+[2022-12-10 15:20:23] [SEVERE ] removing player 2 token from slot 1
+[2022-12-10 15:20:23] [SEVERE ] removing player 2 token from slot 3
+[2022-12-10 15:20:23] [SEVERE ] removing player 2 token from slot 11
+[2022-12-10 15:20:24] [SEVERE ] player 3 placing token on slot 2
+[2022-12-10 15:20:25] [SEVERE ] player 4 placing token on slot 0
+[2022-12-10 15:20:25] [SEVERE ] player 3 placing token on slot 8
+[2022-12-10 15:20:25] [SEVERE ] player 5 placing token on slot 5
+[2022-12-10 15:20:26] [SEVERE ] player 2 placing token on slot 3
+[2022-12-10 15:20:26] [SEVERE ] player 4 placing token on slot 7
+[2022-12-10 15:20:26] [SEVERE ] player 2 placing token on slot 4
+[2022-12-10 15:20:26] [SEVERE ] player 5 placing token on slot 11
+[2022-12-10 15:20:27] [SEVERE ] player 3 placing token on slot 10
+[2022-12-10 15:20:27] [SEVERE ] removing player 3 token from slot 2
+[2022-12-10 15:20:27] [SEVERE ] removing player 3 token from slot 8
+[2022-12-10 15:20:27] [SEVERE ] removing player 3 token from slot 10
+[2022-12-10 15:20:28] [SEVERE ] player 4 placing token on slot 4
+[2022-12-10 15:20:28] [SEVERE ] removing player 4 token from slot 0
+[2022-12-10 15:20:28] [SEVERE ] removing player 4 token from slot 4
+[2022-12-10 15:20:28] [SEVERE ] removing player 4 token from slot 7
+[2022-12-10 15:20:28] [SEVERE ] player 5 placing token on slot 1
+[2022-12-10 15:20:28] [SEVERE ] removing player 5 token from slot 1
+[2022-12-10 15:20:28] [SEVERE ] removing player 5 token from slot 5
+[2022-12-10 15:20:28] [SEVERE ] removing player 5 token from slot 11
+[2022-12-10 15:20:28] [SEVERE ] player 3 placing token on slot 4
+[2022-12-10 15:20:29] [SEVERE ] player 2 placing token on slot 11
+[2022-12-10 15:20:29] [SEVERE ] removing player 2 token from slot 3
+[2022-12-10 15:20:29] [SEVERE ] removing player 2 token from slot 4
+[2022-12-10 15:20:29] [SEVERE ] removing player 2 token from slot 11
+[2022-12-10 15:20:29] [SEVERE ] player 4 placing token on slot 4
+[2022-12-10 15:20:30] [SEVERE ] player 5 placing token on slot 8
+[2022-12-10 15:20:30] [SEVERE ] player 5 placing token on slot 3
+[2022-12-10 15:20:30] [SEVERE ] player 2 placing token on slot 2
+[2022-12-10 15:20:31] [SEVERE ] player 4 placing token on slot 8
+[2022-12-10 15:20:31] [SEVERE ] player 5 placing token on slot 11
+[2022-12-10 15:20:31] [SEVERE ] removing player 5 token from slot 3
+[2022-12-10 15:20:31] [SEVERE ] removing player 5 token from slot 8
+[2022-12-10 15:20:31] [SEVERE ] removing player 5 token from slot 11
+[2022-12-10 15:20:31] [SEVERE ] player 3 placing token on slot 9
+[2022-12-10 15:20:32] [SEVERE ] player 4 placing token on slot 11
+[2022-12-10 15:20:32] [SEVERE ] removing player 4 token from slot 4
+[2022-12-10 15:20:32] [SEVERE ] removing player 4 token from slot 8
+[2022-12-10 15:20:32] [SEVERE ] removing player 4 token from slot 11
+[2022-12-10 15:20:32] [SEVERE ] player 3 placing token on slot 0
+[2022-12-10 15:20:32] [SEVERE ] removing player 3 token from slot 0
+[2022-12-10 15:20:32] [SEVERE ] removing player 3 token from slot 4
+[2022-12-10 15:20:32] [SEVERE ] removing player 3 token from slot 9
+[2022-12-10 15:20:32] [SEVERE ] player 2 placing token on slot 6
+[2022-12-10 15:20:33] [SEVERE ] player 5 placing token on slot 9
+[2022-12-10 15:20:33] [SEVERE ] player 2 placing token on slot 11
+[2022-12-10 15:20:33] [SEVERE ] removing player 2 token from slot 2
+[2022-12-10 15:20:33] [SEVERE ] removing player 2 token from slot 6
+[2022-12-10 15:20:33] [SEVERE ] removing player 2 token from slot 11
+[2022-12-10 15:20:34] [SEVERE ] player 4 placing token on slot 9
+[2022-12-10 15:20:34] [SEVERE ] player 3 placing token on slot 1
+[2022-12-10 15:20:35] [SEVERE ] player 4 placing token on slot 0
+[2022-12-10 15:20:35] [SEVERE ] player 3 placing token on slot 8
+[2022-12-10 15:20:36] [SEVERE ] player 5 placing token on slot 11
+[2022-12-10 15:20:36] [SEVERE ] player 3 placing token on slot 3
+[2022-12-10 15:20:36] [SEVERE ] removing player 3 token from slot 1
+[2022-12-10 15:20:36] [SEVERE ] removing player 3 token from slot 3
+[2022-12-10 15:20:36] [SEVERE ] removing player 3 token from slot 8
+[2022-12-10 15:20:36] [SEVERE ] player 2 placing token on slot 11
+[2022-12-10 15:20:37] [SEVERE ] player 3 placing token on slot 5
+[2022-12-10 15:20:38] [SEVERE ] player 4 placing token on slot 3
+[2022-12-10 15:20:38] [SEVERE ] removing player 4 token from slot 0
+[2022-12-10 15:20:38] [SEVERE ] removing player 4 token from slot 3
+[2022-12-10 15:20:38] [SEVERE ] removing player 4 token from slot 9
+[2022-12-10 15:20:38] [SEVERE ] player 2 placing token on slot 10
+[2022-12-10 15:20:39] [SEVERE ] player 5 placing token on slot 4
+[2022-12-10 15:20:39] [SEVERE ] removing player 5 token from slot 4
+[2022-12-10 15:20:39] [SEVERE ] removing player 5 token from slot 9
+[2022-12-10 15:20:39] [SEVERE ] removing player 5 token from slot 11
+[2022-12-10 15:20:39] [SEVERE ] player 3 placing token on slot 4
+[2022-12-10 15:20:39] [SEVERE ] player 2 placing token on slot 7
+[2022-12-10 15:20:39] [SEVERE ] removing player 2 token from slot 7
+[2022-12-10 15:20:39] [SEVERE ] removing player 2 token from slot 10
+[2022-12-10 15:20:39] [SEVERE ] removing player 2 token from slot 11
+[2022-12-10 15:20:40] [SEVERE ] player 4 placing token on slot 10
+[2022-12-10 15:20:40] [SEVERE ] player 5 placing token on slot 0
+[2022-12-10 15:20:41] [SEVERE ] player 5 placing token on slot 3
+[2022-12-10 15:20:41] [SEVERE ] player 3 placing token on slot 3
+[2022-12-10 15:20:41] [SEVERE ] removing player 3 token from slot 3
+[2022-12-10 15:20:41] [SEVERE ] removing player 3 token from slot 4
+[2022-12-10 15:20:41] [SEVERE ] removing player 3 token from slot 5
+[2022-12-10 15:20:41] [SEVERE ] player 2 placing token on slot 9
+[2022-12-10 15:20:42] [SEVERE ] player 4 placing token on slot 6
+[2022-12-10 15:20:43] [SEVERE ] player 4 placing token on slot 2
+[2022-12-10 15:20:43] [SEVERE ] removing player 4 token from slot 2
+[2022-12-10 15:20:43] [SEVERE ] removing player 4 token from slot 6
+[2022-12-10 15:20:43] [SEVERE ] removing player 4 token from slot 10
+[2022-12-10 15:20:43] [SEVERE ] player 5 placing token on slot 8
+[2022-12-10 15:20:43] [SEVERE ] removing player 5 token from slot 0
+[2022-12-10 15:20:43] [SEVERE ] removing player 5 token from slot 3
+[2022-12-10 15:20:43] [SEVERE ] removing player 5 token from slot 8
+[2022-12-10 15:20:43] [SEVERE ] player 2 placing token on slot 10
+[2022-12-10 15:20:44] [SEVERE ] player 3 placing token on slot 9
+[2022-12-10 15:20:44] [SEVERE ] player 4 placing token on slot 1
+[2022-12-10 15:20:45] [SEVERE ] player 2 placing token on slot 11
+[2022-12-10 15:20:45] [SEVERE ] removing player 2 token from slot 9
+[2022-12-10 15:20:45] [SEVERE ] removing player 2 token from slot 10
+[2022-12-10 15:20:45] [SEVERE ] removing player 2 token from slot 11
+[2022-12-10 15:20:45] [SEVERE ] player 5 placing token on slot 2
+[2022-12-10 15:20:45] [SEVERE ] player 3 placing token on slot 1
+[2022-12-10 15:20:46] [SEVERE ] player 2 placing token on slot 9
+[2022-12-10 15:20:47] [SEVERE ] player 4 placing token on slot 5
+[2022-12-10 15:20:47] [SEVERE ] player 3 placing token on slot 5
+[2022-12-10 15:20:47] [SEVERE ] removing player 3 token from slot 1
+[2022-12-10 15:20:47] [SEVERE ] removing player 3 token from slot 5
+[2022-12-10 15:20:47] [SEVERE ] removing player 3 token from slot 9
+[2022-12-10 15:20:47] [SEVERE ] player 2 placing token on slot 2
+[2022-12-10 15:20:48] [SEVERE ] player 5 placing token on slot 6
+[2022-12-10 15:20:49] [SEVERE ] player 5 placing token on slot 11
+[2022-12-10 15:20:49] [SEVERE ] removing player 5 token from slot 2
+[2022-12-10 15:20:49] [SEVERE ] removing player 5 token from slot 6
+[2022-12-10 15:20:49] [SEVERE ] removing player 5 token from slot 11
+[2022-12-10 15:20:49] [SEVERE ] player 2 placing token on slot 4
+[2022-12-10 15:20:49] [SEVERE ] removing player 2 token from slot 2
+[2022-12-10 15:20:49] [SEVERE ] removing player 2 token from slot 4
+[2022-12-10 15:20:49] [SEVERE ] removing player 2 token from slot 9
+[2022-12-10 15:20:49] [SEVERE ] player 3 placing token on slot 4
+[2022-12-10 15:20:49] [SEVERE ] player 4 placing token on slot 9
+[2022-12-10 15:20:49] [SEVERE ] removing player 4 token from slot 1
+[2022-12-10 15:20:49] [SEVERE ] removing player 4 token from slot 5
+[2022-12-10 15:20:49] [SEVERE ] removing player 4 token from slot 9
+[2022-12-10 15:20:50] [SEVERE ] player 3 placing token on slot 10
+[2022-12-10 15:20:50] [SEVERE ] player 2 placing token on slot 2
+[2022-12-10 15:20:51] [SEVERE ] player 5 placing token on slot 10
+[2022-12-10 15:20:51] [SEVERE ] player 4 placing token on slot 6
+[2022-12-10 15:20:52] [SEVERE ] player 4 placing token on slot 9
+[2022-12-10 15:20:52] [SEVERE ] player 2 placing token on slot 0
+[2022-12-10 15:20:52] [SEVERE ] player 5 placing token on slot 0
+[2022-12-10 15:20:53] [SEVERE ] player 3 placing token on slot 9
+[2022-12-10 15:20:53] [SEVERE ] removing player 3 token from slot 4
+[2022-12-10 15:20:53] [SEVERE ] removing player 3 token from slot 9
+[2022-12-10 15:20:53] [SEVERE ] removing player 3 token from slot 10
+[2022-12-10 15:20:53] [SEVERE ] player 5 placing token on slot 4
+[2022-12-10 15:20:53] [SEVERE ] removing player 5 token from slot 0
+[2022-12-10 15:20:53] [SEVERE ] removing player 5 token from slot 4
+[2022-12-10 15:20:53] [SEVERE ] removing player 5 token from slot 10
+[2022-12-10 15:20:54] [SEVERE ] player 5 placing token on slot 3
+[2022-12-10 15:20:54] [SEVERE ] player 3 placing token on slot 8
+[2022-12-10 15:20:54] [SEVERE ] player 2 placing token on slot 6
+[2022-12-10 15:20:54] [SEVERE ] removing player 2 token from slot 0
+[2022-12-10 15:20:54] [SEVERE ] removing player 2 token from slot 2
+[2022-12-10 15:20:54] [SEVERE ] removing player 2 token from slot 6
+[2022-12-10 15:20:54] [SEVERE ] player 4 placing token on slot 3
+[2022-12-10 15:20:54] [SEVERE ] removing player 4 token from slot 3
+[2022-12-10 15:20:54] [SEVERE ] removing player 4 token from slot 6
+[2022-12-10 15:20:54] [SEVERE ] removing player 4 token from slot 9
+[2022-12-10 15:20:55] [SEVERE ] player 3 placing token on slot 5
+[2022-12-10 15:20:55] [SEVERE ] player 5 placing token on slot 11
+[2022-12-10 15:20:55] [SEVERE ] player 2 placing token on slot 7
+[2022-12-10 15:20:55] [SEVERE ] player 4 placing token on slot 10
+[2022-12-10 15:20:56] [SEVERE ] player 2 placing token on slot 6
+[2022-12-10 15:20:57] [SEVERE ] player 3 placing token on slot 6
+[2022-12-10 15:20:57] [SEVERE ] removing player 3 token from slot 5
+[2022-12-10 15:20:57] [SEVERE ] removing player 3 token from slot 6
+[2022-12-10 15:20:57] [SEVERE ] removing player 3 token from slot 8
+[2022-12-10 15:20:57] [SEVERE ] player 4 placing token on slot 8
+[2022-12-10 15:20:57] [SEVERE ] player 5 placing token on slot 6
+[2022-12-10 15:20:57] [SEVERE ] removing player 5 token from slot 3
+[2022-12-10 15:20:57] [SEVERE ] removing player 5 token from slot 6
+[2022-12-10 15:20:57] [SEVERE ] removing player 5 token from slot 11
+[2022-12-10 15:20:58] [SEVERE ] player 4 placing token on slot 1
+[2022-12-10 15:20:58] [SEVERE ] removing player 4 token from slot 1
+[2022-12-10 15:20:58] [SEVERE ] removing player 4 token from slot 8
+[2022-12-10 15:20:58] [SEVERE ] removing player 4 token from slot 10
+[2022-12-10 15:20:58] [SEVERE ] player 5 placing token on slot 6
+[2022-12-10 15:20:59] [SEVERE ] player 2 placing token on slot 0
+[2022-12-10 15:20:59] [SEVERE ] removing player 2 token from slot 0
+[2022-12-10 15:20:59] [SEVERE ] removing player 2 token from slot 6
+[2022-12-10 15:20:59] [SEVERE ] removing player 2 token from slot 7
+[2022-12-10 15:20:59] [SEVERE ] player 3 placing token on slot 3
+[2022-12-10 15:20:59] [SEVERE ] player 4 placing token on slot 0
+[2022-12-10 15:20:59] [SEVERE ] player 2 placing token on slot 4
+[2022-12-10 15:21:00] [SEVERE ] player 2 placing token on slot 6
+[2022-12-10 15:21:00] [SEVERE ] player 4 placing token on slot 2
+[2022-12-10 15:21:01] [SEVERE ] player 5 placing token on slot 9
+[2022-12-10 15:21:01] [SEVERE ] player 3 placing token on slot 7
+[2022-12-10 15:21:02] [SEVERE ] player 4 placing token on slot 7
+[2022-12-10 15:21:02] [SEVERE ] removing player 4 token from slot 0
+[2022-12-10 15:21:02] [SEVERE ] removing player 4 token from slot 2
+[2022-12-10 15:21:02] [SEVERE ] removing player 4 token from slot 7
+[2022-12-10 15:21:02] [SEVERE ] player 5 placing token on slot 1
+[2022-12-10 15:21:02] [SEVERE ] removing player 5 token from slot 1
+[2022-12-10 15:21:02] [SEVERE ] removing player 5 token from slot 6
+[2022-12-10 15:21:02] [SEVERE ] removing player 5 token from slot 9
+[2022-12-10 15:21:03] [SEVERE ] player 2 placing token on slot 0
+[2022-12-10 15:21:03] [SEVERE ] removing player 2 token from slot 0
+[2022-12-10 15:21:03] [SEVERE ] removing player 2 token from slot 4
+[2022-12-10 15:21:03] [SEVERE ] removing player 2 token from slot 6
+[2022-12-10 15:21:03] [SEVERE ] player 4 placing token on slot 6
+[2022-12-10 15:21:04] [SEVERE ] player 3 placing token on slot 6
+[2022-12-10 15:21:04] [SEVERE ] removing player 3 token from slot 3
+[2022-12-10 15:21:04] [SEVERE ] removing player 3 token from slot 6
+[2022-12-10 15:21:04] [SEVERE ] removing player 3 token from slot 7
+[2022-12-10 15:21:04] [SEVERE ] player 2 placing token on slot 7
+[2022-12-10 15:21:05] [SEVERE ] player 3 placing token on slot 9
+[2022-12-10 15:21:05] [SEVERE ] player 5 placing token on slot 0
+[2022-12-10 15:21:05] [SEVERE ] player 2 placing token on slot 6
+[2022-12-10 15:21:05] [SEVERE ] player 4 placing token on slot 3
+[2022-12-10 15:21:05] [SEVERE ] player 2 placing token on slot 10
+[2022-12-10 15:21:05] [SEVERE ] removing player 2 token from slot 6
+[2022-12-10 15:21:05] [SEVERE ] removing player 2 token from slot 7
+[2022-12-10 15:21:05] [SEVERE ] removing player 2 token from slot 10
+[2022-12-10 15:21:06] [SEVERE ] player 5 placing token on slot 8
+[2022-12-10 15:21:06] [SEVERE ] player 3 placing token on slot 11
+[2022-12-10 15:21:07] [SEVERE ] player 3 placing token on slot 8
+[2022-12-10 15:21:07] [SEVERE ] removing player 3 token from slot 8
+[2022-12-10 15:21:07] [SEVERE ] removing player 3 token from slot 9
+[2022-12-10 15:21:07] [SEVERE ] removing player 3 token from slot 11
+[2022-12-10 15:21:07] [SEVERE ] player 4 placing token on slot 7
+[2022-12-10 15:21:07] [SEVERE ] removing player 4 token from slot 3
+[2022-12-10 15:21:07] [SEVERE ] removing player 4 token from slot 6
+[2022-12-10 15:21:07] [SEVERE ] removing player 4 token from slot 7
+[2022-12-10 15:21:08] [SEVERE ] player 5 placing token on slot 10
+[2022-12-10 15:21:08] [SEVERE ] removing player 5 token from slot 0
+[2022-12-10 15:21:08] [SEVERE ] removing player 5 token from slot 8
+[2022-12-10 15:21:08] [SEVERE ] removing player 5 token from slot 10
+[2022-12-10 15:21:08] [SEVERE ] player 2 placing token on slot 5
+[2022-12-10 15:21:08] [SEVERE ] player 5 placing token on slot 2
+[2022-12-10 15:21:09] [SEVERE ] player 3 placing token on slot 8
+[2022-12-10 15:21:10] [SEVERE ] player 4 placing token on slot 11
+[2022-12-10 15:21:10] [SEVERE ] player 2 placing token on slot 6
+[2022-12-10 15:21:10] [SEVERE ] player 4 placing token on slot 8
+[2022-12-10 15:21:11] [SEVERE ] player 5 placing token on slot 7
+[2022-12-10 15:21:11] [SEVERE ] player 3 placing token on slot 2
+[2022-12-10 15:21:12] [SEVERE ] player 2 placing token on slot 8
+[2022-12-10 15:21:12] [SEVERE ] removing player 2 token from slot 5
+[2022-12-10 15:21:12] [SEVERE ] removing player 2 token from slot 6
+[2022-12-10 15:21:12] [SEVERE ] removing player 2 token from slot 8
+[2022-12-10 15:21:12] [SEVERE ] player 5 placing token on slot 11
+[2022-12-10 15:21:12] [SEVERE ] removing player 5 token from slot 2
+[2022-12-10 15:21:12] [SEVERE ] removing player 5 token from slot 7
+[2022-12-10 15:21:12] [SEVERE ] removing player 5 token from slot 11
+[2022-12-10 15:21:12] [SEVERE ] player 3 placing token on slot 3
+[2022-12-10 15:21:12] [SEVERE ] removing player 3 token from slot 2
+[2022-12-10 15:21:12] [SEVERE ] removing player 3 token from slot 3
+[2022-12-10 15:21:12] [SEVERE ] removing player 3 token from slot 8
+[2022-12-10 15:21:13] [SEVERE ] player 4 placing token on slot 4
+[2022-12-10 15:21:13] [SEVERE ] removing player 4 token from slot 4
+[2022-12-10 15:21:13] [SEVERE ] removing player 4 token from slot 8
+[2022-12-10 15:21:13] [SEVERE ] removing player 4 token from slot 11
+[2022-12-10 15:21:13] [SEVERE ] player 2 placing token on slot 7
+[2022-12-10 15:21:14] [SEVERE ] player 2 placing token on slot 9
+[2022-12-10 15:21:14] [SEVERE ] player 3 placing token on slot 8
+[2022-12-10 15:21:15] [SEVERE ] player 4 placing token on slot 5
+[2022-12-10 15:21:15] [SEVERE ] player 5 placing token on slot 11
+[2022-12-10 15:21:16] [SEVERE ] player 4 placing token on slot 11
+[2022-12-10 15:21:16] [SEVERE ] player 3 placing token on slot 4
+[2022-12-10 15:21:16] [SEVERE ] player 2 placing token on slot 10
+[2022-12-10 15:21:16] [SEVERE ] removing player 2 token from slot 7
+[2022-12-10 15:21:16] [SEVERE ] removing player 2 token from slot 9
+[2022-12-10 15:21:16] [SEVERE ] removing player 2 token from slot 10
+[2022-12-10 15:21:16] [SEVERE ] player 3 placing token on slot 5
+[2022-12-10 15:21:16] [SEVERE ] removing player 3 token from slot 4
+[2022-12-10 15:21:16] [SEVERE ] removing player 3 token from slot 5
+[2022-12-10 15:21:16] [SEVERE ] removing player 3 token from slot 8
+[2022-12-10 15:21:16] [SEVERE ] player 4 placing token on slot 8
+[2022-12-10 15:21:16] [SEVERE ] removing player 4 token from slot 5
+[2022-12-10 15:21:16] [SEVERE ] removing player 4 token from slot 8
+[2022-12-10 15:21:16] [SEVERE ] removing player 4 token from slot 11
+[2022-12-10 15:21:17] [SEVERE ] player 3 placing token on slot 8
+[2022-12-10 15:21:18] [SEVERE ] player 5 placing token on slot 4
+[2022-12-10 15:21:18] [SEVERE ] player 3 placing token on slot 11
+[2022-12-10 15:21:18] [SEVERE ] removing tokens from slot 0
+[2022-12-10 15:21:18] [SEVERE ] removing card from slot 0
+[2022-12-10 15:21:18] [SEVERE ] removing tokens from slot 1
+[2022-12-10 15:21:18] [SEVERE ] removing card from slot 1
+[2022-12-10 15:21:18] [SEVERE ] removing tokens from slot 2
+[2022-12-10 15:21:18] [SEVERE ] removing card from slot 2
+[2022-12-10 15:21:18] [SEVERE ] removing tokens from slot 3
+[2022-12-10 15:21:18] [SEVERE ] removing card from slot 3
+[2022-12-10 15:21:19] [SEVERE ] removing tokens from slot 4
+[2022-12-10 15:21:19] [SEVERE ] removing card from slot 4
+[2022-12-10 15:21:19] [SEVERE ] removing tokens from slot 5
+[2022-12-10 15:21:19] [SEVERE ] removing card from slot 5
+[2022-12-10 15:21:19] [SEVERE ] player 4 placing token on slot 8
+[2022-12-10 15:21:19] [SEVERE ] removing tokens from slot 6
+[2022-12-10 15:21:19] [SEVERE ] removing card from slot 6
+[2022-12-10 15:21:19] [SEVERE ] removing tokens from slot 7
+[2022-12-10 15:21:19] [SEVERE ] removing card from slot 7
+[2022-12-10 15:21:19] [SEVERE ] removing tokens from slot 8
+[2022-12-10 15:21:19] [SEVERE ] removing card from slot 8
+[2022-12-10 15:21:19] [SEVERE ] removing tokens from slot 9
+[2022-12-10 15:21:19] [SEVERE ] removing card from slot 9
+[2022-12-10 15:21:19] [SEVERE ] removing tokens from slot 10
+[2022-12-10 15:21:19] [SEVERE ] removing card from slot 10
+[2022-12-10 15:21:19] [SEVERE ] removing tokens from slot 11
+[2022-12-10 15:21:19] [SEVERE ] removing card from slot 11
+[2022-12-10 15:21:19] [SEVERE ] placing card 20 in slot 0
+[2022-12-10 15:21:20] [SEVERE ] placing card 64 in slot 1
+[2022-12-10 15:21:20] [SEVERE ] placing card 60 in slot 2
+[2022-12-10 15:21:20] [SEVERE ] placing card 26 in slot 3
+[2022-12-10 15:21:20] [SEVERE ] placing card 65 in slot 4
+[2022-12-10 15:21:20] [SEVERE ] placing card 30 in slot 5
+[2022-12-10 15:21:20] [SEVERE ] placing card 55 in slot 6
+[2022-12-10 15:21:20] [SEVERE ] placing card 41 in slot 7
+[2022-12-10 15:21:20] [SEVERE ] placing card 37 in slot 8
+[2022-12-10 15:21:20] [SEVERE ] placing card 22 in slot 9
+[2022-12-10 15:21:21] [SEVERE ] placing card 52 in slot 10
+[2022-12-10 15:21:21] [SEVERE ] placing card 7 in slot 11
+[2022-12-10 15:21:22] [SEVERE ] player 3 placing token on slot 8
+[2022-12-10 15:21:22] [SEVERE ] player 2 placing token on slot 5
+[2022-12-10 15:21:22] [SEVERE ] player 4 placing token on slot 1
+[2022-12-10 15:21:23] [SEVERE ] player 3 placing token on slot 9
+[2022-12-10 15:21:23] [SEVERE ] player 5 placing token on slot 11
+[2022-12-10 15:21:23] [SEVERE ] player 2 placing token on slot 1
+[2022-12-10 15:21:24] [SEVERE ] player 4 placing token on slot 5
+[2022-12-10 15:21:24] [SEVERE ] player 3 placing token on slot 6
+[2022-12-10 15:21:24] [SEVERE ] removing player 3 token from slot 6
+[2022-12-10 15:21:24] [SEVERE ] removing player 3 token from slot 8
+[2022-12-10 15:21:24] [SEVERE ] removing player 3 token from slot 9
+[2022-12-10 15:21:25] [SEVERE ] player 5 placing token on slot 6
+[2022-12-10 15:21:26] [SEVERE ] player 3 placing token on slot 9
+[2022-12-10 15:21:26] [SEVERE ] player 4 placing token on slot 4
+[2022-12-10 15:21:26] [SEVERE ] removing player 4 token from slot 1
+[2022-12-10 15:21:26] [SEVERE ] removing player 4 token from slot 4
+[2022-12-10 15:21:26] [SEVERE ] removing player 4 token from slot 5
+[2022-12-10 15:21:26] [SEVERE ] player 3 placing token on slot 7
+[2022-12-10 15:21:26] [SEVERE ] player 5 placing token on slot 1
+[2022-12-10 15:21:26] [SEVERE ] removing player 5 token from slot 1
+[2022-12-10 15:21:26] [SEVERE ] removing player 5 token from slot 6
+[2022-12-10 15:21:26] [SEVERE ] removing player 5 token from slot 11
+[2022-12-10 15:21:26] [SEVERE ] player 2 placing token on slot 11
+[2022-12-10 15:21:26] [SEVERE ] removing player 2 token from slot 1
+[2022-12-10 15:21:26] [SEVERE ] removing player 2 token from slot 5
+[2022-12-10 15:21:26] [SEVERE ] removing player 2 token from slot 11
+[2022-12-10 15:21:28] [SEVERE ] player 4 placing token on slot 1
+[2022-12-10 15:21:28] [SEVERE ] player 3 placing token on slot 11
+[2022-12-10 15:21:28] [SEVERE ] removing player 3 token from slot 7
+[2022-12-10 15:21:28] [SEVERE ] removing player 3 token from slot 9
+[2022-12-10 15:21:28] [SEVERE ] removing player 3 token from slot 11
+[2022-12-10 15:21:28] [SEVERE ] player 5 placing token on slot 7
+[2022-12-10 15:21:28] [SEVERE ] player 2 placing token on slot 3
+[2022-12-10 15:21:29] [SEVERE ] player 3 placing token on slot 1
+[2022-12-10 15:21:29] [SEVERE ] player 3 placing token on slot 0
+[2022-12-10 15:21:30] [SEVERE ] player 5 placing token on slot 4
+[2022-12-10 15:21:30] [SEVERE ] player 4 placing token on slot 10
+[2022-12-10 15:21:30] [SEVERE ] player 2 placing token on slot 4
+[2022-12-10 15:21:30] [SEVERE ] player 3 placing token on slot 7
+[2022-12-10 15:21:30] [SEVERE ] removing player 3 token from slot 0
+[2022-12-10 15:21:30] [SEVERE ] removing player 3 token from slot 1
+[2022-12-10 15:21:30] [SEVERE ] removing player 3 token from slot 7
+[2022-12-10 15:21:31] [SEVERE ] player 5 placing token on slot 9
+[2022-12-10 15:21:31] [SEVERE ] removing player 5 token from slot 4
+[2022-12-10 15:21:31] [SEVERE ] removing player 5 token from slot 7
+[2022-12-10 15:21:31] [SEVERE ] removing player 5 token from slot 9
+[2022-12-10 15:21:31] [SEVERE ] player 2 placing token on slot 0
+[2022-12-10 15:21:31] [SEVERE ] removing player 2 token from slot 0
+[2022-12-10 15:21:31] [SEVERE ] removing player 2 token from slot 3
+[2022-12-10 15:21:31] [SEVERE ] removing player 2 token from slot 4
+[2022-12-10 15:21:32] [SEVERE ] player 5 placing token on slot 11
+[2022-12-10 15:21:33] [SEVERE ] player 2 placing token on slot 0
+[2022-12-10 15:21:33] [SEVERE ] player 4 placing token on slot 9
+[2022-12-10 15:21:33] [SEVERE ] removing player 4 token from slot 1
+[2022-12-10 15:21:33] [SEVERE ] removing player 4 token from slot 9
+[2022-12-10 15:21:33] [SEVERE ] removing player 4 token from slot 10
+[2022-12-10 15:21:33] [SEVERE ] player 3 placing token on slot 4
+[2022-12-10 15:21:34] [SEVERE ] player 2 placing token on slot 7
+[2022-12-10 15:21:34] [SEVERE ] player 4 placing token on slot 1
+[2022-12-10 15:21:34] [SEVERE ] player 5 placing token on slot 4
+[2022-12-10 15:21:35] [SEVERE ] player 5 placing token on slot 10
+[2022-12-10 15:21:35] [SEVERE ] removing player 5 token from slot 4
+[2022-12-10 15:21:35] [SEVERE ] removing player 5 token from slot 10
+[2022-12-10 15:21:35] [SEVERE ] removing player 5 token from slot 11
+[2022-12-10 15:21:36] [SEVERE ] player 3 placing token on slot 9
+[2022-12-10 15:21:36] [SEVERE ] player 5 placing token on slot 10
+[2022-12-10 15:21:36] [SEVERE ] player 4 placing token on slot 2
+[2022-12-10 15:21:36] [SEVERE ] player 2 placing token on slot 4
+[2022-12-10 15:21:36] [SEVERE ] removing player 2 token from slot 0
+[2022-12-10 15:21:36] [SEVERE ] removing player 2 token from slot 4
+[2022-12-10 15:21:36] [SEVERE ] removing player 2 token from slot 7
+[2022-12-10 15:21:37] [SEVERE ] player 2 placing token on slot 11
+[2022-12-10 15:21:37] [SEVERE ] player 5 placing token on slot 7
+[2022-12-10 15:21:38] [SEVERE ] player 3 placing token on slot 10
+[2022-12-10 15:21:38] [SEVERE ] removing player 3 token from slot 4
+[2022-12-10 15:21:38] [SEVERE ] removing player 3 token from slot 9
+[2022-12-10 15:21:38] [SEVERE ] removing player 3 token from slot 10
+[2022-12-10 15:21:38] [SEVERE ] player 5 placing token on slot 9
+[2022-12-10 15:21:38] [SEVERE ] removing player 5 token from slot 7
+[2022-12-10 15:21:38] [SEVERE ] removing player 5 token from slot 9
+[2022-12-10 15:21:38] [SEVERE ] removing player 5 token from slot 10
+[2022-12-10 15:21:39] [SEVERE ] player 4 placing token on slot 9
+[2022-12-10 15:21:39] [SEVERE ] removing player 4 token from slot 1
+[2022-12-10 15:21:39] [SEVERE ] removing player 4 token from slot 2
+[2022-12-10 15:21:39] [SEVERE ] removing player 4 token from slot 9
+[2022-12-10 15:21:39] [SEVERE ] player 5 placing token on slot 2
+[2022-12-10 15:21:40] [SEVERE ] player 3 placing token on slot 8
+[2022-12-10 15:21:40] [SEVERE ] player 2 placing token on slot 9
+[2022-12-10 15:21:40] [SEVERE ] player 5 placing token on slot 4
+[2022-12-10 15:21:41] [SEVERE ] player 4 placing token on slot 10
+[2022-12-10 15:21:42] [SEVERE ] player 3 placing token on slot 0
+[2022-12-10 15:21:43] [SEVERE ] player 2 placing token on slot 4
+[2022-12-10 15:21:43] [SEVERE ] removing player 2 token from slot 4
+[2022-12-10 15:21:43] [SEVERE ] removing player 2 token from slot 9
+[2022-12-10 15:21:43] [SEVERE ] removing player 2 token from slot 11
+[2022-12-10 15:21:43] [SEVERE ] player 5 placing token on slot 0
+[2022-12-10 15:21:43] [SEVERE ] removing player 5 token from slot 0
+[2022-12-10 15:21:43] [SEVERE ] removing player 5 token from slot 2
+[2022-12-10 15:21:43] [SEVERE ] removing player 5 token from slot 4
+[2022-12-10 15:21:43] [SEVERE ] player 4 placing token on slot 6
+[2022-12-10 15:21:44] [SEVERE ] player 3 placing token on slot 5
+[2022-12-10 15:21:44] [SEVERE ] removing player 3 token from slot 0
+[2022-12-10 15:21:44] [SEVERE ] removing player 3 token from slot 5
+[2022-12-10 15:21:44] [SEVERE ] removing player 3 token from slot 8
+[2022-12-10 15:21:44] [SEVERE ] player 2 placing token on slot 10
+[2022-12-10 15:21:45] [SEVERE ] player 4 placing token on slot 4
+[2022-12-10 15:21:45] [SEVERE ] removing player 4 token from slot 4
+[2022-12-10 15:21:45] [SEVERE ] removing player 4 token from slot 6
+[2022-12-10 15:21:45] [SEVERE ] removing player 4 token from slot 10
+[2022-12-10 15:21:45] [SEVERE ] player 5 placing token on slot 8
+[2022-12-10 15:21:45] [SEVERE ] player 2 placing token on slot 6
+[2022-12-10 15:21:45] [SEVERE ] player 4 placing token on slot 10
+[2022-12-10 15:21:46] [SEVERE ] player 3 placing token on slot 8
+[2022-12-10 15:21:47] [SEVERE ] player 5 placing token on slot 0
+[2022-12-10 15:21:47] [SEVERE ] player 4 placing token on slot 6
+[2022-12-10 15:21:47] [SEVERE ] player 2 placing token on slot 11
+[2022-12-10 15:21:47] [SEVERE ] removing player 2 token from slot 6
+[2022-12-10 15:21:47] [SEVERE ] removing player 2 token from slot 10
+[2022-12-10 15:21:47] [SEVERE ] removing player 2 token from slot 11
+[2022-12-10 15:21:47] [SEVERE ] player 3 placing token on slot 3
+[2022-12-10 15:21:49] [SEVERE ] player 4 placing token on slot 8
+[2022-12-10 15:21:49] [SEVERE ] removing player 4 token from slot 6
+[2022-12-10 15:21:49] [SEVERE ] removing player 4 token from slot 8
+[2022-12-10 15:21:49] [SEVERE ] removing player 4 token from slot 10
+[2022-12-10 15:21:49] [SEVERE ] player 5 placing token on slot 11
+[2022-12-10 15:21:49] [SEVERE ] removing player 5 token from slot 0
+[2022-12-10 15:21:49] [SEVERE ] removing player 5 token from slot 8
+[2022-12-10 15:21:49] [SEVERE ] removing player 5 token from slot 11
+[2022-12-10 15:21:49] [SEVERE ] player 3 placing token on slot 6
+[2022-12-10 15:21:49] [SEVERE ] removing player 3 token from slot 3
+[2022-12-10 15:21:49] [SEVERE ] removing player 3 token from slot 6
+[2022-12-10 15:21:49] [SEVERE ] removing player 3 token from slot 8
+[2022-12-10 15:21:49] [SEVERE ] player 2 placing token on slot 6
+[2022-12-10 15:21:49] [SEVERE ] player 3 placing token on slot 9
+[2022-12-10 15:21:51] [SEVERE ] player 4 placing token on slot 3
+[2022-12-10 15:21:52] [SEVERE ] player 3 placing token on slot 6
+[2022-12-10 15:21:52] [SEVERE ] player 5 placing token on slot 5
+[2022-12-10 15:21:52] [SEVERE ] player 2 placing token on slot 7
+[2022-12-10 15:21:53] [SEVERE ] player 5 placing token on slot 10
+[2022-12-10 15:21:54] [SEVERE ] player 4 placing token on slot 2
+[2022-12-10 15:21:54] [SEVERE ] player 2 placing token on slot 8
+[2022-12-10 15:21:54] [SEVERE ] removing player 2 token from slot 6
+[2022-12-10 15:21:54] [SEVERE ] removing player 2 token from slot 7
+[2022-12-10 15:21:54] [SEVERE ] removing player 2 token from slot 8
+[2022-12-10 15:21:54] [SEVERE ] player 5 placing token on slot 0
+[2022-12-10 15:21:54] [SEVERE ] removing player 5 token from slot 0
+[2022-12-10 15:21:54] [SEVERE ] removing player 5 token from slot 5
+[2022-12-10 15:21:54] [SEVERE ] removing player 5 token from slot 10
+[2022-12-10 15:21:54] [SEVERE ] player 3 placing token on slot 2
+[2022-12-10 15:21:54] [SEVERE ] removing player 3 token from slot 2
+[2022-12-10 15:21:54] [SEVERE ] removing player 3 token from slot 6
+[2022-12-10 15:21:54] [SEVERE ] removing player 3 token from slot 9
+[2022-12-10 15:21:55] [SEVERE ] player 3 placing token on slot 5
+[2022-12-10 15:21:56] [SEVERE ] player 4 placing token on slot 9
+[2022-12-10 15:21:56] [SEVERE ] removing player 4 token from slot 2
+[2022-12-10 15:21:56] [SEVERE ] removing player 4 token from slot 3
+[2022-12-10 15:21:56] [SEVERE ] removing player 4 token from slot 9
+[2022-12-10 15:21:56] [SEVERE ] player 2 placing token on slot 7
+[2022-12-10 15:21:56] [SEVERE ] player 4 placing token on slot 2
+[2022-12-10 15:21:56] [SEVERE ] player 5 placing token on slot 5
+[2022-12-10 15:21:57] [SEVERE ] player 2 placing token on slot 0
+[2022-12-10 15:21:58] [SEVERE ] player 3 placing token on slot 10
+[2022-12-10 15:21:59] [SEVERE ] player 4 placing token on slot 8
+[2022-12-10 15:21:59] [SEVERE ] player 5 placing token on slot 11
+[2022-12-10 15:21:59] [SEVERE ] player 2 placing token on slot 9
+[2022-12-10 15:21:59] [SEVERE ] removing player 2 token from slot 0
+[2022-12-10 15:21:59] [SEVERE ] removing player 2 token from slot 7
+[2022-12-10 15:21:59] [SEVERE ] removing player 2 token from slot 9
+[2022-12-10 15:22:00] [SEVERE ] player 3 placing token on slot 3
+[2022-12-10 15:22:00] [SEVERE ] removing player 3 token from slot 3
+[2022-12-10 15:22:00] [SEVERE ] removing player 3 token from slot 5
+[2022-12-10 15:22:00] [SEVERE ] removing player 3 token from slot 10
+[2022-12-10 15:22:00] [SEVERE ] player 4 placing token on slot 10
+[2022-12-10 15:22:00] [SEVERE ] removing player 4 token from slot 2
+[2022-12-10 15:22:00] [SEVERE ] removing player 4 token from slot 8
+[2022-12-10 15:22:00] [SEVERE ] removing player 4 token from slot 10
+[2022-12-10 15:22:00] [SEVERE ] player 5 placing token on slot 10
+[2022-12-10 15:22:00] [SEVERE ] removing player 5 token from slot 5
+[2022-12-10 15:22:00] [SEVERE ] removing player 5 token from slot 10
+[2022-12-10 15:22:00] [SEVERE ] removing player 5 token from slot 11
+[2022-12-10 15:22:01] [SEVERE ] player 3 placing token on slot 1
+[2022-12-10 15:22:02] [SEVERE ] player 2 placing token on slot 4
+[2022-12-10 15:22:02] [SEVERE ] player 4 placing token on slot 10
+[2022-12-10 15:22:02] [SEVERE ] player 3 placing token on slot 4
+[2022-12-10 15:22:03] [SEVERE ] player 5 placing token on slot 0
+[2022-12-10 15:22:03] [SEVERE ] player 3 placing token on slot 8
+[2022-12-10 15:22:03] [SEVERE ] removing player 3 token from slot 1
+[2022-12-10 15:22:03] [SEVERE ] removing player 3 token from slot 4
+[2022-12-10 15:22:03] [SEVERE ] removing player 3 token from slot 8
+[2022-12-10 15:22:03] [SEVERE ] player 2 placing token on slot 2
+[2022-12-10 15:22:04] [SEVERE ] player 3 placing token on slot 1
+[2022-12-10 15:22:05] [SEVERE ] player 4 placing token on slot 2
+[2022-12-10 15:22:05] [SEVERE ] player 2 placing token on slot 7
+[2022-12-10 15:22:05] [SEVERE ] removing player 2 token from slot 2
+[2022-12-10 15:22:05] [SEVERE ] removing player 2 token from slot 4
+[2022-12-10 15:22:05] [SEVERE ] removing player 2 token from slot 7
+[2022-12-10 15:22:05] [SEVERE ] player 5 placing token on slot 2
+[2022-12-10 15:22:05] [SEVERE ] player 3 placing token on slot 6
+[2022-12-10 15:22:07] [SEVERE ] player 4 placing token on slot 9
+[2022-12-10 15:22:07] [SEVERE ] removing player 4 token from slot 2
+[2022-12-10 15:22:07] [SEVERE ] removing player 4 token from slot 9
+[2022-12-10 15:22:07] [SEVERE ] removing player 4 token from slot 10
+[2022-12-10 15:22:08] [SEVERE ] player 2 placing token on slot 11
+[2022-12-10 15:22:08] [SEVERE ] player 5 placing token on slot 6
+[2022-12-10 15:22:08] [SEVERE ] removing player 5 token from slot 0
+[2022-12-10 15:22:08] [SEVERE ] removing player 5 token from slot 2
+[2022-12-10 15:22:08] [SEVERE ] removing player 5 token from slot 6
+[2022-12-10 15:22:08] [SEVERE ] player 3 placing token on slot 4
+[2022-12-10 15:22:08] [SEVERE ] removing player 3 token from slot 1
+[2022-12-10 15:22:08] [SEVERE ] removing player 3 token from slot 4
+[2022-12-10 15:22:08] [SEVERE ] removing player 3 token from slot 6
+[2022-12-10 15:22:09] [SEVERE ] player 2 placing token on slot 0
+[2022-12-10 15:22:09] [SEVERE ] player 4 placing token on slot 5
+[2022-12-10 15:22:10] [SEVERE ] player 2 placing token on slot 10
+[2022-12-10 15:22:10] [SEVERE ] removing player 2 token from slot 0
+[2022-12-10 15:22:10] [SEVERE ] removing player 2 token from slot 10
+[2022-12-10 15:22:10] [SEVERE ] removing player 2 token from slot 11
+[2022-12-10 15:22:10] [SEVERE ] player 4 placing token on slot 10
+[2022-12-10 15:22:11] [SEVERE ] player 5 placing token on slot 8
+[2022-12-10 15:22:11] [SEVERE ] player 4 placing token on slot 7
+[2022-12-10 15:22:11] [SEVERE ] removing player 4 token from slot 5
+[2022-12-10 15:22:11] [SEVERE ] removing player 4 token from slot 7
+[2022-12-10 15:22:11] [SEVERE ] removing player 4 token from slot 10
+[2022-12-10 15:22:11] [SEVERE ] player 3 placing token on slot 3
+[2022-12-10 15:22:12] [SEVERE ] player 5 placing token on slot 5
+[2022-12-10 15:22:12] [SEVERE ] player 4 placing token on slot 10
+[2022-12-10 15:22:13] [SEVERE ] player 2 placing token on slot 6
+[2022-12-10 15:22:13] [SEVERE ] player 5 placing token on slot 9
+[2022-12-10 15:22:13] [SEVERE ] removing player 5 token from slot 5
+[2022-12-10 15:22:13] [SEVERE ] removing player 5 token from slot 8
+[2022-12-10 15:22:13] [SEVERE ] removing player 5 token from slot 9
+[2022-12-10 15:22:13] [SEVERE ] player 3 placing token on slot 0
+[2022-12-10 15:22:14] [SEVERE ] player 2 placing token on slot 11
+[2022-12-10 15:22:14] [SEVERE ] player 5 placing token on slot 9
+[2022-12-10 15:22:15] [SEVERE ] player 4 placing token on slot 0
+[2022-12-10 15:22:15] [SEVERE ] player 3 placing token on slot 2
+[2022-12-10 15:22:15] [SEVERE ] removing player 3 token from slot 0
+[2022-12-10 15:22:15] [SEVERE ] removing player 3 token from slot 2
+[2022-12-10 15:22:15] [SEVERE ] removing player 3 token from slot 3
+[2022-12-10 15:22:16] [SEVERE ] player 2 placing token on slot 8
+[2022-12-10 15:22:16] [SEVERE ] removing player 2 token from slot 6
+[2022-12-10 15:22:16] [SEVERE ] removing player 2 token from slot 8
+[2022-12-10 15:22:16] [SEVERE ] removing player 2 token from slot 11
+[2022-12-10 15:22:16] [SEVERE ] player 4 placing token on slot 9
+[2022-12-10 15:22:16] [SEVERE ] removing player 4 token from slot 0
+[2022-12-10 15:22:16] [SEVERE ] removing player 4 token from slot 9
+[2022-12-10 15:22:16] [SEVERE ] removing player 4 token from slot 10
+[2022-12-10 15:22:16] [SEVERE ] player 2 placing token on slot 6
+[2022-12-10 15:22:16] [SEVERE ] player 5 placing token on slot 5
+[2022-12-10 15:22:17] [SEVERE ] player 3 placing token on slot 11
+[2022-12-10 15:22:17] [SEVERE ] player 4 placing token on slot 6
+[2022-12-10 15:22:18] [SEVERE ] player 5 placing token on slot 1
+[2022-12-10 15:22:18] [SEVERE ] removing player 5 token from slot 1
+[2022-12-10 15:22:18] [SEVERE ] removing player 5 token from slot 5
+[2022-12-10 15:22:18] [SEVERE ] removing player 5 token from slot 9
+[2022-12-10 15:22:19] [SEVERE ] player 4 placing token on slot 3
+[2022-12-10 15:22:19] [SEVERE ] player 2 placing token on slot 10
+[2022-12-10 15:22:19] [SEVERE ] player 3 placing token on slot 5
+[2022-12-10 15:22:20] [SEVERE ] player 2 placing token on slot 3
+[2022-12-10 15:22:20] [SEVERE ] removing player 2 token from slot 3
+[2022-12-10 15:22:20] [SEVERE ] removing player 2 token from slot 6
+[2022-12-10 15:22:20] [SEVERE ] removing player 2 token from slot 10
+[2022-12-10 15:22:21] [SEVERE ] player 3 placing token on slot 3
+[2022-12-10 15:22:21] [SEVERE ] removing player 3 token from slot 3
+[2022-12-10 15:22:21] [SEVERE ] removing player 3 token from slot 5
+[2022-12-10 15:22:21] [SEVERE ] removing player 3 token from slot 11
+[2022-12-10 15:22:21] [SEVERE ] removing tokens from slot 0
+[2022-12-10 15:22:21] [SEVERE ] removing card from slot 0
+[2022-12-10 15:22:21] [SEVERE ] player 4 placing token on slot 4
+[2022-12-10 15:22:21] [SEVERE ] removing tokens from slot 1
+[2022-12-10 15:22:21] [SEVERE ] removing card from slot 1
+[2022-12-10 15:22:21] [SEVERE ] player 5 placing token on slot 9
+[2022-12-10 15:22:21] [SEVERE ] removing tokens from slot 2
+[2022-12-10 15:22:21] [SEVERE ] removing card from slot 2
+[2022-12-10 15:22:21] [SEVERE ] removing tokens from slot 3
+[2022-12-10 15:22:21] [SEVERE ] removing card from slot 3
+[2022-12-10 15:22:21] [SEVERE ] removing tokens from slot 4
+[2022-12-10 15:22:21] [SEVERE ] removing card from slot 4
+[2022-12-10 15:22:21] [SEVERE ] removing tokens from slot 5
+[2022-12-10 15:22:21] [SEVERE ] removing card from slot 5
+[2022-12-10 15:22:21] [SEVERE ] removing tokens from slot 6
+[2022-12-10 15:22:21] [SEVERE ] removing card from slot 6
+[2022-12-10 15:22:22] [SEVERE ] removing tokens from slot 7
+[2022-12-10 15:22:22] [SEVERE ] removing card from slot 7
+[2022-12-10 15:22:22] [SEVERE ] removing tokens from slot 8
+[2022-12-10 15:22:22] [SEVERE ] removing card from slot 8
+[2022-12-10 15:22:22] [SEVERE ] removing tokens from slot 9
+[2022-12-10 15:22:22] [SEVERE ] removing card from slot 9
+[2022-12-10 15:22:22] [SEVERE ] removing tokens from slot 10
+[2022-12-10 15:22:22] [SEVERE ] removing card from slot 10
+[2022-12-10 15:22:22] [SEVERE ] removing tokens from slot 11
+[2022-12-10 15:22:22] [SEVERE ] removing card from slot 11
+[2022-12-10 15:22:22] [SEVERE ] placing card 17 in slot 0
+[2022-12-10 15:22:22] [SEVERE ] placing card 48 in slot 1
+[2022-12-10 15:22:22] [SEVERE ] placing card 7 in slot 2
+[2022-12-10 15:22:22] [SEVERE ] placing card 63 in slot 3
+[2022-12-10 15:22:23] [SEVERE ] placing card 54 in slot 4
+[2022-12-10 15:22:23] [SEVERE ] placing card 23 in slot 5
+[2022-12-10 15:22:23] [SEVERE ] placing card 32 in slot 6
+[2022-12-10 15:22:23] [SEVERE ] placing card 43 in slot 7
+[2022-12-10 15:22:23] [SEVERE ] player 2 placing token on slot 5
+[2022-12-10 15:22:23] [SEVERE ] placing card 53 in slot 8
+[2022-12-10 15:22:23] [SEVERE ] placing card 55 in slot 9
+[2022-12-10 15:22:23] [SEVERE ] placing card 21 in slot 10
+[2022-12-10 15:22:23] [SEVERE ] placing card 76 in slot 11
+[2022-12-10 15:22:25] [SEVERE ] player 3 placing token on slot 5
+[2022-12-10 15:22:25] [SEVERE ] player 4 placing token on slot 0
+[2022-12-10 15:22:26] [SEVERE ] player 2 placing token on slot 3
+[2022-12-10 15:22:26] [SEVERE ] player 4 placing token on slot 10
+[2022-12-10 15:22:26] [SEVERE ] player 5 placing token on slot 0
+[2022-12-10 15:22:27] [SEVERE ] player 3 placing token on slot 0
+[2022-12-10 15:22:27] [SEVERE ] player 2 placing token on slot 7
+[2022-12-10 15:22:27] [SEVERE ] removing player 2 token from slot 3
+[2022-12-10 15:22:27] [SEVERE ] removing player 2 token from slot 5
+[2022-12-10 15:22:27] [SEVERE ] removing player 2 token from slot 7
+[2022-12-10 15:22:27] [SEVERE ] player 3 placing token on slot 3
+[2022-12-10 15:22:27] [SEVERE ] removing player 3 token from slot 0
+[2022-12-10 15:22:27] [SEVERE ] removing player 3 token from slot 3
+[2022-12-10 15:22:27] [SEVERE ] removing player 3 token from slot 5
+[2022-12-10 15:22:28] [SEVERE ] player 5 placing token on slot 11
+[2022-12-10 15:22:28] [SEVERE ] player 4 placing token on slot 6
+[2022-12-10 15:22:28] [SEVERE ] removing player 4 token from slot 0
+[2022-12-10 15:22:28] [SEVERE ] removing player 4 token from slot 6
+[2022-12-10 15:22:28] [SEVERE ] removing player 4 token from slot 10
+[2022-12-10 15:22:28] [SEVERE ] player 5 placing token on slot 10
+[2022-12-10 15:22:28] [SEVERE ] removing player 5 token from slot 0
+[2022-12-10 15:22:28] [SEVERE ] removing player 5 token from slot 10
+[2022-12-10 15:22:28] [SEVERE ] removing player 5 token from slot 11
+[2022-12-10 15:22:28] [SEVERE ] player 3 placing token on slot 1
+[2022-12-10 15:22:29] [SEVERE ] player 2 placing token on slot 2
+[2022-12-10 15:22:30] [SEVERE ] player 4 placing token on slot 4
+[2022-12-10 15:22:31] [SEVERE ] player 3 placing token on slot 0
+[2022-12-10 15:22:31] [SEVERE ] player 5 placing token on slot 9
+[2022-12-10 15:22:31] [SEVERE ] player 2 placing token on slot 3
+[2022-12-10 15:22:32] [SEVERE ] player 3 placing token on slot 8
+[2022-12-10 15:22:32] [SEVERE ] removing player 3 token from slot 0
+[2022-12-10 15:22:32] [SEVERE ] removing player 3 token from slot 1
+[2022-12-10 15:22:32] [SEVERE ] removing player 3 token from slot 8
+[2022-12-10 15:22:32] [SEVERE ] player 5 placing token on slot 4
+[2022-12-10 15:22:33] [SEVERE ] player 4 placing token on slot 6
+[2022-12-10 15:22:33] [SEVERE ] player 4 placing token on slot 10
+[2022-12-10 15:22:33] [SEVERE ] removing player 4 token from slot 4
+[2022-12-10 15:22:33] [SEVERE ] removing player 4 token from slot 6
+[2022-12-10 15:22:33] [SEVERE ] removing player 4 token from slot 10
+[2022-12-10 15:22:33] [SEVERE ] player 2 placing token on slot 11
+[2022-12-10 15:22:33] [SEVERE ] removing player 2 token from slot 2
+[2022-12-10 15:22:33] [SEVERE ] removing player 2 token from slot 3
+[2022-12-10 15:22:33] [SEVERE ] removing player 2 token from slot 11
+[2022-12-10 15:22:34] [SEVERE ] player 3 placing token on slot 3
+[2022-12-10 15:22:35] [SEVERE ] player 2 placing token on slot 9
+[2022-12-10 15:22:35] [SEVERE ] player 5 placing token on slot 2
+[2022-12-10 15:22:35] [SEVERE ] removing player 5 token from slot 2
+[2022-12-10 15:22:35] [SEVERE ] removing player 5 token from slot 4
+[2022-12-10 15:22:35] [SEVERE ] removing player 5 token from slot 9
+[2022-12-10 15:22:36] [SEVERE ] player 4 placing token on slot 7
+[2022-12-10 15:22:36] [SEVERE ] player 2 placing token on slot 4
+[2022-12-10 15:22:36] [SEVERE ] player 5 placing token on slot 6
+[2022-12-10 15:22:37] [SEVERE ] player 3 placing token on slot 7
+[2022-12-10 15:22:37] [SEVERE ] player 2 placing token on slot 2
+[2022-12-10 15:22:37] [SEVERE ] removing player 2 token from slot 2
+[2022-12-10 15:22:37] [SEVERE ] removing player 2 token from slot 4
+[2022-12-10 15:22:37] [SEVERE ] removing player 2 token from slot 9
+[2022-12-10 15:22:37] [SEVERE ] player 4 placing token on slot 4
+[2022-12-10 15:22:38] [SEVERE ] player 5 placing token on slot 9
+[2022-12-10 15:22:39] [SEVERE ] player 2 placing token on slot 6
+[2022-12-10 15:22:39] [SEVERE ] player 3 placing token on slot 6
+[2022-12-10 15:22:39] [SEVERE ] removing player 3 token from slot 3
+[2022-12-10 15:22:39] [SEVERE ] removing player 3 token from slot 6
+[2022-12-10 15:22:39] [SEVERE ] removing player 3 token from slot 7
+[2022-12-10 15:22:39] [SEVERE ] player 4 placing token on slot 3
+[2022-12-10 15:22:39] [SEVERE ] removing player 4 token from slot 3
+[2022-12-10 15:22:39] [SEVERE ] removing player 4 token from slot 4
+[2022-12-10 15:22:39] [SEVERE ] removing player 4 token from slot 7
+[2022-12-10 15:22:40] [SEVERE ] player 5 placing token on slot 2
+[2022-12-10 15:22:40] [SEVERE ] removing player 5 token from slot 2
+[2022-12-10 15:22:40] [SEVERE ] removing player 5 token from slot 6
+[2022-12-10 15:22:40] [SEVERE ] removing player 5 token from slot 9
+[2022-12-10 15:22:41] [SEVERE ] player 3 placing token on slot 2
+[2022-12-10 15:22:42] [SEVERE ] player 2 placing token on slot 2
+[2022-12-10 15:22:42] [SEVERE ] player 4 placing token on slot 4
+[2022-12-10 15:22:42] [SEVERE ] player 5 placing token on slot 4
+[2022-12-10 15:22:43] [SEVERE ] player 2 placing token on slot 7
+[2022-12-10 15:22:43] [SEVERE ] removing player 2 token from slot 2
+[2022-12-10 15:22:43] [SEVERE ] removing player 2 token from slot 6
+[2022-12-10 15:22:43] [SEVERE ] removing player 2 token from slot 7
+[2022-12-10 15:22:43] [SEVERE ] player 3 placing token on slot 9
+[2022-12-10 15:22:44] [SEVERE ] player 4 placing token on slot 5
+[2022-12-10 15:22:45] [SEVERE ] player 2 placing token on slot 7
+[2022-12-10 15:22:45] [SEVERE ] player 5 placing token on slot 6
+[2022-12-10 15:22:45] [SEVERE ] player 3 placing token on slot 8
+[2022-12-10 15:22:45] [SEVERE ] removing player 3 token from slot 2
+[2022-12-10 15:22:45] [SEVERE ] removing player 3 token from slot 8
+[2022-12-10 15:22:45] [SEVERE ] removing player 3 token from slot 9
+[2022-12-10 15:22:46] [SEVERE ] player 3 placing token on slot 5
+[2022-12-10 15:22:46] [SEVERE ] player 4 placing token on slot 9
+[2022-12-10 15:22:46] [SEVERE ] removing player 4 token from slot 4
+[2022-12-10 15:22:46] [SEVERE ] removing player 4 token from slot 5
+[2022-12-10 15:22:46] [SEVERE ] removing player 4 token from slot 9
+[2022-12-10 15:22:46] [SEVERE ] player 2 placing token on slot 9
+[2022-12-10 15:22:47] [SEVERE ] player 3 placing token on slot 2
+[2022-12-10 15:22:47] [SEVERE ] player 2 placing token on slot 0
+[2022-12-10 15:22:47] [SEVERE ] removing player 2 token from slot 0
+[2022-12-10 15:22:47] [SEVERE ] removing player 2 token from slot 7
+[2022-12-10 15:22:47] [SEVERE ] removing player 2 token from slot 9
+[2022-12-10 15:22:48] [SEVERE ] player 3 placing token on slot 8
+[2022-12-10 15:22:48] [SEVERE ] removing player 3 token from slot 2
+[2022-12-10 15:22:48] [SEVERE ] removing player 3 token from slot 5
+[2022-12-10 15:22:48] [SEVERE ] removing player 3 token from slot 8
+[2022-12-10 15:22:48] [SEVERE ] player 4 placing token on slot 9
+[2022-12-10 15:22:48] [SEVERE ] player 5 placing token on slot 7
+[2022-12-10 15:22:48] [SEVERE ] removing player 5 token from slot 4
+[2022-12-10 15:22:48] [SEVERE ] removing player 5 token from slot 6
+[2022-12-10 15:22:48] [SEVERE ] removing player 5 token from slot 7
+[2022-12-10 15:22:49] [SEVERE ] player 3 placing token on slot 7
+[2022-12-10 15:22:50] [SEVERE ] player 2 placing token on slot 3
+[2022-12-10 15:22:50] [SEVERE ] player 3 placing token on slot 6
+[2022-12-10 15:22:50] [SEVERE ] player 5 placing token on slot 2
+[2022-12-10 15:22:50] [SEVERE ] player 4 placing token on slot 3
+[2022-12-10 15:22:52] [SEVERE ] player 2 placing token on slot 9
+[2022-12-10 15:22:52] [SEVERE ] player 2 placing token on slot 6
+[2022-12-10 15:22:52] [SEVERE ] removing player 2 token from slot 3
+[2022-12-10 15:22:52] [SEVERE ] removing player 2 token from slot 6
+[2022-12-10 15:22:52] [SEVERE ] removing player 2 token from slot 9
+[2022-12-10 15:22:52] [SEVERE ] player 5 placing token on slot 1
+[2022-12-10 15:22:53] [SEVERE ] player 3 placing token on slot 10
+[2022-12-10 15:22:53] [SEVERE ] removing player 3 token from slot 6
+[2022-12-10 15:22:53] [SEVERE ] removing player 3 token from slot 7
+[2022-12-10 15:22:53] [SEVERE ] removing player 3 token from slot 10
+[2022-12-10 15:22:53] [SEVERE ] player 4 placing token on slot 7
+[2022-12-10 15:22:53] [SEVERE ] removing player 4 token from slot 3
+[2022-12-10 15:22:53] [SEVERE ] removing player 4 token from slot 7
+[2022-12-10 15:22:53] [SEVERE ] removing player 4 token from slot 9
+[2022-12-10 15:22:54] [SEVERE ] player 5 placing token on slot 0
+[2022-12-10 15:22:54] [SEVERE ] removing player 5 token from slot 0
+[2022-12-10 15:22:54] [SEVERE ] removing player 5 token from slot 1
+[2022-12-10 15:22:54] [SEVERE ] removing player 5 token from slot 2
+[2022-12-10 15:22:54] [SEVERE ] player 4 placing token on slot 1
+[2022-12-10 15:22:55] [SEVERE ] player 2 placing token on slot 1
+[2022-12-10 15:22:55] [SEVERE ] player 3 placing token on slot 9
+[2022-12-10 15:22:56] [SEVERE ] player 2 placing token on slot 10
+[2022-12-10 15:22:56] [SEVERE ] player 5 placing token on slot 1
+[2022-12-10 15:22:56] [SEVERE ] player 4 placing token on slot 9
+[2022-12-10 15:22:57] [SEVERE ] player 3 placing token on slot 4
+[2022-12-10 15:22:58] [SEVERE ] player 2 placing token on slot 5
+[2022-12-10 15:22:58] [SEVERE ] removing player 2 token from slot 1
+[2022-12-10 15:22:58] [SEVERE ] removing player 2 token from slot 5
+[2022-12-10 15:22:58] [SEVERE ] removing player 2 token from slot 10
+[2022-12-10 15:22:59] [SEVERE ] player 4 placing token on slot 6
+[2022-12-10 15:22:59] [SEVERE ] removing player 4 token from slot 1
+[2022-12-10 15:22:59] [SEVERE ] removing player 4 token from slot 6
+[2022-12-10 15:22:59] [SEVERE ] removing player 4 token from slot 9
+[2022-12-10 15:22:59] [SEVERE ] player 5 placing token on slot 11
+[2022-12-10 15:23:00] [SEVERE ] player 3 placing token on slot 10
+[2022-12-10 15:23:00] [SEVERE ] removing player 3 token from slot 4
+[2022-12-10 15:23:00] [SEVERE ] removing player 3 token from slot 9
+[2022-12-10 15:23:00] [SEVERE ] removing player 3 token from slot 10
+[2022-12-10 15:23:00] [SEVERE ] player 4 placing token on slot 4
+[2022-12-10 15:23:00] [SEVERE ] player 3 placing token on slot 0
+[2022-12-10 15:23:01] [SEVERE ] player 2 placing token on slot 4
+[2022-12-10 15:23:01] [SEVERE ] player 4 placing token on slot 8
+[2022-12-10 15:23:01] [SEVERE ] player 3 placing token on slot 1
+[2022-12-10 15:23:02] [SEVERE ] player 4 placing token on slot 9
+[2022-12-10 15:23:02] [SEVERE ] removing player 4 token from slot 4
+[2022-12-10 15:23:02] [SEVERE ] removing player 4 token from slot 8
+[2022-12-10 15:23:02] [SEVERE ] removing player 4 token from slot 9
+[2022-12-10 15:23:02] [SEVERE ] player 5 placing token on slot 9
+[2022-12-10 15:23:02] [SEVERE ] removing player 5 token from slot 1
+[2022-12-10 15:23:02] [SEVERE ] removing player 5 token from slot 9
+[2022-12-10 15:23:02] [SEVERE ] removing player 5 token from slot 11
+[2022-12-10 15:23:02] [SEVERE ] player 2 placing token on slot 3
+[2022-12-10 15:23:03] [SEVERE ] player 4 placing token on slot 3
+[2022-12-10 15:23:03] [SEVERE ] player 2 placing token on slot 5
+[2022-12-10 15:23:03] [SEVERE ] removing player 2 token from slot 3
+[2022-12-10 15:23:03] [SEVERE ] removing player 2 token from slot 4
+[2022-12-10 15:23:03] [SEVERE ] removing player 2 token from slot 5
+[2022-12-10 15:23:03] [SEVERE ] player 3 placing token on slot 2
+[2022-12-10 15:23:03] [SEVERE ] removing player 3 token from slot 0
+[2022-12-10 15:23:03] [SEVERE ] removing player 3 token from slot 1
+[2022-12-10 15:23:03] [SEVERE ] removing player 3 token from slot 2
+[2022-12-10 15:23:05] [SEVERE ] player 5 placing token on slot 1
+[2022-12-10 15:23:05] [SEVERE ] player 4 placing token on slot 0
+[2022-12-10 15:23:06] [SEVERE ] player 3 placing token on slot 7
+[2022-12-10 15:23:06] [SEVERE ] player 5 placing token on slot 7
+[2022-12-10 15:23:06] [SEVERE ] player 2 placing token on slot 6
+[2022-12-10 15:23:07] [SEVERE ] player 5 placing token on slot 10
+[2022-12-10 15:23:07] [SEVERE ] removing player 5 token from slot 1
+[2022-12-10 15:23:07] [SEVERE ] removing player 5 token from slot 7
+[2022-12-10 15:23:07] [SEVERE ] removing player 5 token from slot 10
+[2022-12-10 15:23:07] [SEVERE ] player 4 placing token on slot 11
+[2022-12-10 15:23:07] [SEVERE ] removing player 4 token from slot 0
+[2022-12-10 15:23:07] [SEVERE ] removing player 4 token from slot 3
+[2022-12-10 15:23:07] [SEVERE ] removing player 4 token from slot 11
+[2022-12-10 15:23:08] [SEVERE ] player 2 placing token on slot 5
+[2022-12-10 15:23:08] [SEVERE ] player 3 placing token on slot 4
+[2022-12-10 15:23:09] [SEVERE ] player 5 placing token on slot 9
+[2022-12-10 15:23:09] [SEVERE ] player 3 placing token on slot 10
+[2022-12-10 15:23:09] [SEVERE ] removing player 3 token from slot 4
+[2022-12-10 15:23:09] [SEVERE ] removing player 3 token from slot 7
+[2022-12-10 15:23:09] [SEVERE ] removing player 3 token from slot 10
+[2022-12-10 15:23:09] [SEVERE ] player 4 placing token on slot 3
+[2022-12-10 15:23:10] [SEVERE ] player 2 placing token on slot 8
+[2022-12-10 15:23:10] [SEVERE ] removing player 2 token from slot 5
+[2022-12-10 15:23:10] [SEVERE ] removing player 2 token from slot 6
+[2022-12-10 15:23:10] [SEVERE ] removing player 2 token from slot 8
+[2022-12-10 15:23:11] [SEVERE ] player 5 placing token on slot 7
+[2022-12-10 15:23:11] [SEVERE ] player 3 placing token on slot 3
+[2022-12-10 15:23:11] [SEVERE ] player 4 placing token on slot 2
