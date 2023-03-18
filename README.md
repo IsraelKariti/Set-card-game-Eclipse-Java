@@ -1,6 +1,7 @@
 # Set-card-game-Eclipse-Java  
 Set card game (The game is actually called 'Set')
 Built with Eclipse Java
+This project rely heavily on Multi Threads  
 Each round is 60 seconds, the user must find as fast as possible a set of cards that have a combination of traits as defind in the original game  
 The computer is playing against the user  
 There is a possiblity to play with 2 human players and up to 4 computer players  
